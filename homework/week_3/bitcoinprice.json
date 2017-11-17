@@ -1,0 +1,3652 @@
+[
+    {
+        "Close": "13.30413",
+        "High": "13.56",
+        "Low": "13.16123",
+        "Open": "13.51001",
+        "Timestamp": "2013-01-01",
+        "Volume (BTC)": "28406.21",
+        "Volume (Currency)": "378879.35",
+        "Weighted Price": "13.34"
+    },
+    {
+        "Close": "13.27999",
+        "High": "13.4",
+        "Low": "13.16382",
+        "Open": "13.35574",
+        "Timestamp": "2013-01-02",
+        "Volume (BTC)": "17966.81",
+        "Volume (Currency)": "239156.18",
+        "Weighted Price": "13.31"
+    },
+    {
+        "Close": "13.39786",
+        "High": "13.464",
+        "Low": "13.24897",
+        "Open": "13.28306",
+        "Timestamp": "2013-01-03",
+        "Volume (BTC)": "18032.25",
+        "Volume (Currency)": "240845.86",
+        "Weighted Price": "13.36"
+    },
+    {
+        "Close": "13.5",
+        "High": "13.52",
+        "Low": "13.27311",
+        "Open": "13.4265",
+        "Timestamp": "2013-01-04",
+        "Volume (BTC)": "29641.92",
+        "Volume (Currency)": "397884.35",
+        "Weighted Price": "13.42"
+    },
+    {
+        "Close": "13.44",
+        "High": "13.548",
+        "Low": "13.314",
+        "Open": "13.50001",
+        "Timestamp": "2013-01-05",
+        "Volume (BTC)": "21329.93",
+        "Volume (Currency)": "286932.51",
+        "Weighted Price": "13.45"
+    },
+    {
+        "Close": "13.45395",
+        "High": "13.521",
+        "Low": "13.356",
+        "Open": "13.44884",
+        "Timestamp": "2013-01-06",
+        "Volume (BTC)": "12741.13",
+        "Volume (Currency)": "171497.01",
+        "Weighted Price": "13.46"
+    },
+    {
+        "Close": "13.58755",
+        "High": "13.59",
+        "Low": "13.404",
+        "Open": "13.51394",
+        "Timestamp": "2013-01-07",
+        "Volume (BTC)": "25477.72",
+        "Volume (Currency)": "344083.33",
+        "Weighted Price": "13.51"
+    },
+    {
+        "Close": "13.74275",
+        "High": "13.87998",
+        "Low": "13.5",
+        "Open": "13.55376",
+        "Timestamp": "2013-01-08",
+        "Volume (BTC)": "42798.37",
+        "Volume (Currency)": "587223.86",
+        "Weighted Price": "13.72"
+    },
+    {
+        "Close": "13.77001",
+        "High": "13.86225",
+        "Low": "13.62",
+        "Open": "13.79904",
+        "Timestamp": "2013-01-09",
+        "Volume (BTC)": "28606.38",
+        "Volume (Currency)": "393192.24",
+        "Weighted Price": "13.74"
+    },
+    {
+        "Close": "14.13999",
+        "High": "14.32",
+        "Low": "13.77",
+        "Open": "13.77001",
+        "Timestamp": "2013-01-10",
+        "Volume (BTC)": "51811.03",
+        "Volume (Currency)": "727790.48",
+        "Weighted Price": "14.05"
+    },
+    {
+        "Close": "14.13701",
+        "High": "14.34999",
+        "Low": "13.91001",
+        "Open": "14.13",
+        "Timestamp": "2013-01-11",
+        "Volume (BTC)": "40434.54",
+        "Volume (Currency)": "570677.27",
+        "Weighted Price": "14.11"
+    },
+    {
+        "Close": "14.23699",
+        "High": "14.338",
+        "Low": "13.975",
+        "Open": "14.25664",
+        "Timestamp": "2013-01-12",
+        "Volume (BTC)": "26931.84",
+        "Volume (Currency)": "381546.96",
+        "Weighted Price": "14.17"
+    },
+    {
+        "Close": "14.11601",
+        "High": "14.3148",
+        "Low": "13.94896",
+        "Open": "14.237",
+        "Timestamp": "2013-01-13",
+        "Volume (BTC)": "38330.15",
+        "Volume (Currency)": "540759.58",
+        "Weighted Price": "14.11"
+    },
+    {
+        "Close": "14.30002",
+        "High": "14.35",
+        "Low": "14.11",
+        "Open": "14.19",
+        "Timestamp": "2013-01-14",
+        "Volume (BTC)": "22096.95",
+        "Volume (Currency)": "315016.66",
+        "Weighted Price": "14.26"
+    },
+    {
+        "Close": "14.25003",
+        "High": "14.47899",
+        "Low": "13.99178",
+        "Open": "14.35",
+        "Timestamp": "2013-01-15",
+        "Volume (BTC)": "51573.23",
+        "Volume (Currency)": "732428.4",
+        "Weighted Price": "14.2"
+    },
+    {
+        "Close": "14.73",
+        "High": "14.73",
+        "Low": "14.21001",
+        "Open": "14.3",
+        "Timestamp": "2013-01-16",
+        "Volume (BTC)": "45532.49",
+        "Volume (Currency)": "660929.7",
+        "Weighted Price": "14.52"
+    },
+    {
+        "Close": "15.50001",
+        "High": "15.69999",
+        "Low": "14.63",
+        "Open": "14.73",
+        "Timestamp": "2013-01-17",
+        "Volume (BTC)": "65489.44",
+        "Volume (Currency)": "993185.63",
+        "Weighted Price": "15.17"
+    },
+    {
+        "Close": "15.70499",
+        "High": "15.985",
+        "Low": "15.41",
+        "Open": "15.59897",
+        "Timestamp": "2013-01-18",
+        "Volume (BTC)": "56097.55",
+        "Volume (Currency)": "879655.99",
+        "Weighted Price": "15.68"
+    },
+    {
+        "Close": "15.615",
+        "High": "15.77272",
+        "Low": "15.25",
+        "Open": "15.6843",
+        "Timestamp": "2013-01-19",
+        "Volume (BTC)": "34588.82",
+        "Volume (Currency)": "534667.03",
+        "Weighted Price": "15.46"
+    },
+    {
+        "Close": "15.7",
+        "High": "15.89",
+        "Low": "15.51",
+        "Open": "15.615",
+        "Timestamp": "2013-01-20",
+        "Volume (BTC)": "25982.13",
+        "Volume (Currency)": "408455.8",
+        "Weighted Price": "15.72"
+    },
+    {
+        "Close": "16.8",
+        "High": "16.98",
+        "Low": "15.63412",
+        "Open": "15.7",
+        "Timestamp": "2013-01-21",
+        "Volume (BTC)": "61502.1",
+        "Volume (Currency)": "1007686.44",
+        "Weighted Price": "16.38"
+    },
+    {
+        "Close": "17.26142",
+        "High": "17.59",
+        "Low": "16.65",
+        "Open": "16.8",
+        "Timestamp": "2013-01-22",
+        "Volume (BTC)": "60975.24",
+        "Volume (Currency)": "1045898.98",
+        "Weighted Price": "17.15"
+    },
+    {
+        "Close": "17.50004",
+        "High": "17.5855",
+        "Low": "16.80155",
+        "Open": "17.26142",
+        "Timestamp": "2013-01-23",
+        "Volume (BTC)": "49439.37",
+        "Volume (Currency)": "851188.37",
+        "Weighted Price": "17.22"
+    },
+    {
+        "Close": "16.89596",
+        "High": "19.18999",
+        "Low": "15.6101",
+        "Open": "17.52899",
+        "Timestamp": "2013-01-24",
+        "Volume (BTC)": "172009.1",
+        "Volume (Currency)": "3053222.09",
+        "Weighted Price": "17.75"
+    },
+    {
+        "Close": "17.40001",
+        "High": "17.797",
+        "Low": "15.38613",
+        "Open": "16.76002",
+        "Timestamp": "2013-01-25",
+        "Volume (BTC)": "80767.49",
+        "Volume (Currency)": "1345890.12",
+        "Weighted Price": "16.66"
+    },
+    {
+        "Close": "17.88",
+        "High": "17.88",
+        "Low": "16.54001",
+        "Open": "17.4511",
+        "Timestamp": "2013-01-26",
+        "Volume (BTC)": "34810.6",
+        "Volume (Currency)": "597064.17",
+        "Weighted Price": "17.15"
+    },
+    {
+        "Close": "17.81821",
+        "High": "17.99999",
+        "Low": "17.21",
+        "Open": "17.81",
+        "Timestamp": "2013-01-27",
+        "Volume (BTC)": "23766.82",
+        "Volume (Currency)": "419571.12",
+        "Weighted Price": "17.65"
+    },
+    {
+        "Close": "18.72101",
+        "High": "18.88",
+        "Low": "17.75",
+        "Open": "17.81821",
+        "Timestamp": "2013-01-28",
+        "Volume (BTC)": "57669.44",
+        "Volume (Currency)": "1057611.3",
+        "Weighted Price": "18.34"
+    },
+    {
+        "Close": "19.52538",
+        "High": "19.8",
+        "Low": "18.7",
+        "Open": "18.8",
+        "Timestamp": "2013-01-29",
+        "Volume (BTC)": "86082.08",
+        "Volume (Currency)": "1650126.18",
+        "Weighted Price": "19.17"
+    },
+    {
+        "Close": "19.70001",
+        "High": "19.7989",
+        "Low": "19.14901",
+        "Open": "19.53999",
+        "Timestamp": "2013-01-30",
+        "Volume (BTC)": "45064.83",
+        "Volume (Currency)": "877863.5",
+        "Weighted Price": "19.48"
+    },
+    {
+        "Close": "20.41001",
+        "High": "21.43",
+        "Low": "19.51123",
+        "Open": "19.70001",
+        "Timestamp": "2013-01-31",
+        "Volume (BTC)": "99226.7",
+        "Volume (Currency)": "2042238.64",
+        "Weighted Price": "20.58"
+    },
+    {
+        "Close": "20.49897",
+        "High": "21.13",
+        "Low": "20.301",
+        "Open": "20.50879",
+        "Timestamp": "2013-02-01",
+        "Volume (BTC)": "49917.48",
+        "Volume (Currency)": "1034619.16",
+        "Weighted Price": "20.73"
+    },
+    {
+        "Close": "19.63001",
+        "High": "20.5",
+        "Low": "18",
+        "Open": "20.3611",
+        "Timestamp": "2013-02-02",
+        "Volume (BTC)": "80501.65",
+        "Volume (Currency)": "1567325.27",
+        "Weighted Price": "19.47"
+    },
+    {
+        "Close": "20.59",
+        "High": "20.9",
+        "Low": "19.42",
+        "Open": "19.7",
+        "Timestamp": "2013-02-03",
+        "Volume (BTC)": "34244.3",
+        "Volume (Currency)": "693849.61",
+        "Weighted Price": "20.26"
+    },
+    {
+        "Close": "20.43005",
+        "High": "21.05",
+        "Low": "19.85502",
+        "Open": "20.59999",
+        "Timestamp": "2013-02-04",
+        "Volume (BTC)": "52219.14",
+        "Volume (Currency)": "1066570.21",
+        "Weighted Price": "20.42"
+    },
+    {
+        "Close": "20.60001",
+        "High": "20.79",
+        "Low": "20.2",
+        "Open": "20.43006",
+        "Timestamp": "2013-02-05",
+        "Volume (BTC)": "29212.44",
+        "Volume (Currency)": "600949.67",
+        "Weighted Price": "20.57"
+    },
+    {
+        "Close": "21.18",
+        "High": "21.3339",
+        "Low": "20.60001",
+        "Open": "20.65999",
+        "Timestamp": "2013-02-06",
+        "Volume (BTC)": "51989.6",
+        "Volume (Currency)": "1096396.16",
+        "Weighted Price": "21.09"
+    },
+    {
+        "Close": "22.15",
+        "High": "22.21999",
+        "Low": "20.77002",
+        "Open": "21.11121",
+        "Timestamp": "2013-02-07",
+        "Volume (BTC)": "64263.77",
+        "Volume (Currency)": "1388465.81",
+        "Weighted Price": "21.61"
+    },
+    {
+        "Close": "22.66",
+        "High": "22.77219",
+        "Low": "22",
+        "Open": "22.11001",
+        "Timestamp": "2013-02-08",
+        "Volume (BTC)": "48649.93",
+        "Volume (Currency)": "1090678.48",
+        "Weighted Price": "22.42"
+    },
+    {
+        "Close": "23.65",
+        "High": "23.98961",
+        "Low": "22.57541",
+        "Open": "22.66",
+        "Timestamp": "2013-02-09",
+        "Volume (BTC)": "38133.01",
+        "Volume (Currency)": "886034.01",
+        "Weighted Price": "23.24"
+    },
+    {
+        "Close": "23.96975",
+        "High": "24.11",
+        "Low": "22.67",
+        "Open": "23.8",
+        "Timestamp": "2013-02-10",
+        "Volume (BTC)": "56426.07",
+        "Volume (Currency)": "1321513.68",
+        "Weighted Price": "23.42"
+    },
+    {
+        "Close": "24.65",
+        "High": "24.67503",
+        "Low": "23.6456",
+        "Open": "23.96975",
+        "Timestamp": "2013-02-11",
+        "Volume (BTC)": "29526.73",
+        "Volume (Currency)": "712458.7",
+        "Weighted Price": "24.13"
+    },
+    {
+        "Close": "25.16975",
+        "High": "25.82767",
+        "Low": "24.3001",
+        "Open": "24.38651",
+        "Timestamp": "2013-02-12",
+        "Volume (BTC)": "74239.93",
+        "Volume (Currency)": "1862561.32",
+        "Weighted Price": "25.09"
+    },
+    {
+        "Close": "24.2",
+        "High": "26.3",
+        "Low": "24.19491",
+        "Open": "25.19",
+        "Timestamp": "2013-02-13",
+        "Volume (BTC)": "90150.21",
+        "Volume (Currency)": "2296830.8",
+        "Weighted Price": "25.48"
+    },
+    {
+        "Close": "27.2205",
+        "High": "27.5969",
+        "Low": "21.721",
+        "Open": "24.2",
+        "Timestamp": "2013-02-14",
+        "Volume (BTC)": "145734.74",
+        "Volume (Currency)": "3710262.51",
+        "Weighted Price": "25.46"
+    },
+    {
+        "Close": "27.1",
+        "High": "27.50617",
+        "Low": "26.103",
+        "Open": "27.24997",
+        "Timestamp": "2013-02-15",
+        "Volume (BTC)": "51714.15",
+        "Volume (Currency)": "1396017.97",
+        "Weighted Price": "26.99"
+    },
+    {
+        "Close": "27.21584",
+        "High": "27.49989",
+        "Low": "26.8075",
+        "Open": "27.1",
+        "Timestamp": "2013-02-16",
+        "Volume (BTC)": "18826.94",
+        "Volume (Currency)": "511421.92",
+        "Weighted Price": "27.16"
+    },
+    {
+        "Close": "26.8146",
+        "High": "27.39989",
+        "Low": "25",
+        "Open": "27.386",
+        "Timestamp": "2013-02-17",
+        "Volume (BTC)": "77042.22",
+        "Volume (Currency)": "2033614.64",
+        "Weighted Price": "26.4"
+    },
+    {
+        "Close": "26.95",
+        "High": "27.148",
+        "Low": "26.36268",
+        "Open": "26.89999",
+        "Timestamp": "2013-02-18",
+        "Volume (BTC)": "29744.27",
+        "Volume (Currency)": "795866.42",
+        "Weighted Price": "26.76"
+    },
+    {
+        "Close": "29.41759",
+        "High": "29.65",
+        "Low": "26.8",
+        "Open": "26.95",
+        "Timestamp": "2013-02-19",
+        "Volume (BTC)": "99699.25",
+        "Volume (Currency)": "2810076.61",
+        "Weighted Price": "28.19"
+    },
+    {
+        "Close": "29.64501",
+        "High": "29.87035",
+        "Low": "28.98839",
+        "Open": "29.41759",
+        "Timestamp": "2013-02-20",
+        "Volume (BTC)": "37209.36",
+        "Volume (Currency)": "1096641.18",
+        "Weighted Price": "29.47"
+    },
+    {
+        "Close": "29.74768",
+        "High": "29.978",
+        "Low": "29.311",
+        "Open": "29.64501",
+        "Timestamp": "2013-02-21",
+        "Volume (BTC)": "34730.51",
+        "Volume (Currency)": "1030860.6",
+        "Weighted Price": "29.68"
+    },
+    {
+        "Close": "30.24539",
+        "High": "31.3",
+        "Low": "29.67001",
+        "Open": "29.75",
+        "Timestamp": "2013-02-22",
+        "Volume (BTC)": "66951.69",
+        "Volume (Currency)": "2039411.78",
+        "Weighted Price": "30.46"
+    },
+    {
+        "Close": "29.79999",
+        "High": "30.6899",
+        "Low": "28",
+        "Open": "30.24539",
+        "Timestamp": "2013-02-23",
+        "Volume (BTC)": "72278.17",
+        "Volume (Currency)": "2099763.39",
+        "Weighted Price": "29.05"
+    },
+    {
+        "Close": "29.88999",
+        "High": "30.39877",
+        "Low": "29.20123",
+        "Open": "29.79999",
+        "Timestamp": "2013-02-24",
+        "Volume (BTC)": "24274.89",
+        "Volume (Currency)": "722940.53",
+        "Weighted Price": "29.78"
+    },
+    {
+        "Close": "30.39999",
+        "High": "30.4",
+        "Low": "29.55",
+        "Open": "29.89",
+        "Timestamp": "2013-02-25",
+        "Volume (BTC)": "26778.95",
+        "Volume (Currency)": "805270.53",
+        "Weighted Price": "30.07"
+    },
+    {
+        "Close": "31.1",
+        "High": "31.699",
+        "Low": "30.1171",
+        "Open": "30.39991",
+        "Timestamp": "2013-02-26",
+        "Volume (BTC)": "42864.33",
+        "Volume (Currency)": "1329295.41",
+        "Weighted Price": "31.01"
+    },
+    {
+        "Close": "30.9012",
+        "High": "31.65",
+        "Low": "30.7901",
+        "Open": "31.19999",
+        "Timestamp": "2013-02-27",
+        "Volume (BTC)": "30472.78",
+        "Volume (Currency)": "951289.24",
+        "Weighted Price": "31.22"
+    },
+    {
+        "Close": "33.38",
+        "High": "34.51541",
+        "Low": "30.902",
+        "Open": "31.25997",
+        "Timestamp": "2013-02-28",
+        "Volume (BTC)": "126517.41",
+        "Volume (Currency)": "4136416.34",
+        "Weighted Price": "32.69"
+    },
+    {
+        "Close": "34.5",
+        "High": "34.9",
+        "Low": "32.92",
+        "Open": "33.37999",
+        "Timestamp": "2013-03-01",
+        "Volume (BTC)": "39786.14",
+        "Volume (Currency)": "1362290.79",
+        "Weighted Price": "34.24"
+    },
+    {
+        "Close": "34.25",
+        "High": "34.808",
+        "Low": "33.15",
+        "Open": "34.5",
+        "Timestamp": "2013-03-02",
+        "Volume (BTC)": "36662.49",
+        "Volume (Currency)": "1241775.93",
+        "Weighted Price": "33.87"
+    },
+    {
+        "Close": "34.49999",
+        "High": "34.5",
+        "Low": "33.8",
+        "Open": "34.2489",
+        "Timestamp": "2013-03-03",
+        "Volume (BTC)": "12524.59",
+        "Volume (Currency)": "427480.57",
+        "Weighted Price": "34.13"
+    },
+    {
+        "Close": "36.152",
+        "High": "36.7",
+        "Low": "34.19",
+        "Open": "34.49999",
+        "Timestamp": "2013-03-04",
+        "Volume (BTC)": "46771.49",
+        "Volume (Currency)": "1659027.49",
+        "Weighted Price": "35.47"
+    },
+    {
+        "Close": "40.33",
+        "High": "40.64625",
+        "Low": "36.15",
+        "Open": "36.152",
+        "Timestamp": "2013-03-05",
+        "Volume (BTC)": "85425.52",
+        "Volume (Currency)": "3361374.96",
+        "Weighted Price": "39.35"
+    },
+    {
+        "Close": "41.0201",
+        "High": "49.099",
+        "Low": "40.1446",
+        "Open": "40.22994",
+        "Timestamp": "2013-03-06",
+        "Volume (BTC)": "126451.72",
+        "Volume (Currency)": "5712472.93",
+        "Weighted Price": "45.18"
+    },
+    {
+        "Close": "41.99999",
+        "High": "45.5",
+        "Low": "33.3",
+        "Open": "41.0201",
+        "Timestamp": "2013-03-07",
+        "Volume (BTC)": "157316.08",
+        "Volume (Currency)": "6439707.76",
+        "Weighted Price": "40.93"
+    },
+    {
+        "Close": "44.17999",
+        "High": "44.5",
+        "Low": "41.02",
+        "Open": "41.99999",
+        "Timestamp": "2013-03-08",
+        "Volume (BTC)": "47095.97",
+        "Volume (Currency)": "2032649.25",
+        "Weighted Price": "43.16"
+    },
+    {
+        "Close": "46.85",
+        "High": "46.99",
+        "Low": "43.411",
+        "Open": "44.17999",
+        "Timestamp": "2013-03-09",
+        "Volume (BTC)": "44475.89",
+        "Volume (Currency)": "2020839.64",
+        "Weighted Price": "45.44"
+    },
+    {
+        "Close": "46",
+        "High": "47.95",
+        "Low": "45.471",
+        "Open": "46.61",
+        "Timestamp": "2013-03-10",
+        "Volume (BTC)": "36363.25",
+        "Volume (Currency)": "1703124.85",
+        "Weighted Price": "46.84"
+    },
+    {
+        "Close": "48.39999",
+        "High": "48.469",
+        "Low": "45.54",
+        "Open": "46",
+        "Timestamp": "2013-03-11",
+        "Volume (BTC)": "41390.18",
+        "Volume (Currency)": "1970814.35",
+        "Weighted Price": "47.62"
+    },
+    {
+        "Close": "44.28994",
+        "High": "48.39999",
+        "Low": "36.65",
+        "Open": "48.39999",
+        "Timestamp": "2013-03-12",
+        "Volume (BTC)": "183404.75",
+        "Volume (Currency)": "8014406.02",
+        "Weighted Price": "43.7"
+    },
+    {
+        "Close": "46.92002",
+        "High": "47.295",
+        "Low": "43.7508",
+        "Open": "44.33",
+        "Timestamp": "2013-03-13",
+        "Volume (BTC)": "49497.44",
+        "Volume (Currency)": "2297381.06",
+        "Weighted Price": "46.41"
+    },
+    {
+        "Close": "47.1696",
+        "High": "47.99",
+        "Low": "46.05",
+        "Open": "46.92006",
+        "Timestamp": "2013-03-14",
+        "Volume (BTC)": "37034.85",
+        "Volume (Currency)": "1752253.49",
+        "Weighted Price": "47.31"
+    },
+    {
+        "Close": "46.95",
+        "High": "47.44999",
+        "Low": "46.4",
+        "Open": "47.0333",
+        "Timestamp": "2013-03-15",
+        "Volume (BTC)": "20223.95",
+        "Volume (Currency)": "951174.39",
+        "Weighted Price": "47.03"
+    },
+    {
+        "Close": "47.00019",
+        "High": "47.3599",
+        "Low": "46.2707",
+        "Open": "46.86012",
+        "Timestamp": "2013-03-16",
+        "Volume (BTC)": "16288.51",
+        "Volume (Currency)": "763344.96",
+        "Weighted Price": "46.86"
+    },
+    {
+        "Close": "47.4",
+        "High": "47.74",
+        "Low": "46.8",
+        "Open": "47.00019",
+        "Timestamp": "2013-03-17",
+        "Volume (BTC)": "13902.62",
+        "Volume (Currency)": "658983.36",
+        "Weighted Price": "47.4"
+    },
+    {
+        "Close": "51.60001",
+        "High": "52.875",
+        "Low": "47.12009",
+        "Open": "47.4",
+        "Timestamp": "2013-03-18",
+        "Volume (BTC)": "65199.79",
+        "Volume (Currency)": "3193717.3",
+        "Weighted Price": "48.98"
+    },
+    {
+        "Close": "59.14001",
+        "High": "62",
+        "Low": "50",
+        "Open": "51.60001",
+        "Timestamp": "2013-03-19",
+        "Volume (BTC)": "111627.22",
+        "Volume (Currency)": "6182806.06",
+        "Weighted Price": "55.39"
+    },
+    {
+        "Close": "64.4888",
+        "High": "66",
+        "Low": "57.702",
+        "Open": "59.14001",
+        "Timestamp": "2013-03-20",
+        "Volume (BTC)": "93128.83",
+        "Volume (Currency)": "5776100.55",
+        "Weighted Price": "62.02"
+    },
+    {
+        "Close": "70.85",
+        "High": "74.9",
+        "Low": "63.101",
+        "Open": "64.4888",
+        "Timestamp": "2013-03-21",
+        "Volume (BTC)": "94225.81",
+        "Volume (Currency)": "6508438.17",
+        "Weighted Price": "69.07"
+    },
+    {
+        "Close": "69.86501",
+        "High": "73.74999",
+        "Low": "65",
+        "Open": "70.84",
+        "Timestamp": "2013-03-22",
+        "Volume (BTC)": "73168.07",
+        "Volume (Currency)": "5169041.03",
+        "Weighted Price": "70.65"
+    },
+    {
+        "Close": "64.35",
+        "High": "70.5025",
+        "Low": "52.3456",
+        "Open": "70.28001",
+        "Timestamp": "2013-03-23",
+        "Volume (BTC)": "150462.18",
+        "Volume (Currency)": "9429342.99",
+        "Weighted Price": "62.67"
+    },
+    {
+        "Close": "71.5",
+        "High": "72.49999",
+        "Low": "62.7",
+        "Open": "64.35001",
+        "Timestamp": "2013-03-24",
+        "Volume (BTC)": "42006.36",
+        "Volume (Currency)": "2895161.77",
+        "Weighted Price": "68.92"
+    },
+    {
+        "Close": "73.6",
+        "High": "78",
+        "Low": "69.51777",
+        "Open": "71.50001",
+        "Timestamp": "2013-03-25",
+        "Volume (BTC)": "79730.06",
+        "Volume (Currency)": "5920116.46",
+        "Weighted Price": "74.25"
+    },
+    {
+        "Close": "78.5",
+        "High": "79.72001",
+        "Low": "73.11",
+        "Open": "73.58561",
+        "Timestamp": "2013-03-26",
+        "Volume (BTC)": "56654.33",
+        "Volume (Currency)": "4376373.47",
+        "Weighted Price": "77.25"
+    },
+    {
+        "Close": "88.92",
+        "High": "89.49999",
+        "Low": "78.4",
+        "Open": "78.74999",
+        "Timestamp": "2013-03-27",
+        "Volume (BTC)": "72182.81",
+        "Volume (Currency)": "6126022.75",
+        "Weighted Price": "84.87"
+    },
+    {
+        "Close": "86.18",
+        "High": "95.7",
+        "Low": "75.00111",
+        "Open": "88.8",
+        "Timestamp": "2013-03-28",
+        "Volume (BTC)": "140226.88",
+        "Volume (Currency)": "12257633.95",
+        "Weighted Price": "87.41"
+    },
+    {
+        "Close": "90.5",
+        "High": "93.06",
+        "Low": "83.01",
+        "Open": "86.18",
+        "Timestamp": "2013-03-29",
+        "Volume (BTC)": "83152.75",
+        "Volume (Currency)": "7382080.86",
+        "Weighted Price": "88.78"
+    },
+    {
+        "Close": "92.19003",
+        "High": "94.98",
+        "Low": "87",
+        "Open": "90.46598",
+        "Timestamp": "2013-03-30",
+        "Volume (BTC)": "37270.51",
+        "Volume (Currency)": "3418588.27",
+        "Weighted Price": "91.72"
+    },
+    {
+        "Close": "93.03001",
+        "High": "93.8",
+        "Low": "91",
+        "Open": "92.19003",
+        "Timestamp": "2013-03-31",
+        "Volume (BTC)": "21092.38",
+        "Volume (Currency)": "1955242.2",
+        "Weighted Price": "92.7"
+    },
+    {
+        "Close": "104",
+        "High": "106",
+        "Low": "92.2361",
+        "Open": "93.25",
+        "Timestamp": "2013-04-01",
+        "Volume (BTC)": "90527.29",
+        "Volume (Currency)": "9055970",
+        "Weighted Price": "100.04"
+    },
+    {
+        "Close": "117.98",
+        "High": "118.36",
+        "Low": "99",
+        "Open": "104.00001",
+        "Timestamp": "2013-04-02",
+        "Volume (BTC)": "81260.8",
+        "Volume (Currency)": "8744282.1",
+        "Weighted Price": "107.61"
+    },
+    {
+        "Close": "135",
+        "High": "147",
+        "Low": "110",
+        "Open": "118",
+        "Timestamp": "2013-04-03",
+        "Volume (BTC)": "152624.24",
+        "Volume (Currency)": "19519658.71",
+        "Weighted Price": "127.89"
+    },
+    {
+        "Close": "132.12001",
+        "High": "142.12",
+        "Low": "116.39063",
+        "Open": "135",
+        "Timestamp": "2013-04-04",
+        "Volume (BTC)": "88124.78",
+        "Volume (Currency)": "11598387.76",
+        "Weighted Price": "131.61"
+    },
+    {
+        "Close": "142.32356",
+        "High": "144.94",
+        "Low": "130.24303",
+        "Open": "132.79998",
+        "Timestamp": "2013-04-05",
+        "Volume (BTC)": "68557.5",
+        "Volume (Currency)": "9544390.16",
+        "Weighted Price": "139.22"
+    },
+    {
+        "Close": "142.63112",
+        "High": "143.9",
+        "Low": "139.54",
+        "Open": "142.05001",
+        "Timestamp": "2013-04-06",
+        "Volume (BTC)": "18273.09",
+        "Volume (Currency)": "2597665.45",
+        "Weighted Price": "142.16"
+    },
+    {
+        "Close": "162.30102",
+        "High": "164.9",
+        "Low": "142.63113",
+        "Open": "142.63113",
+        "Timestamp": "2013-04-07",
+        "Volume (BTC)": "60947.52",
+        "Volume (Currency)": "9401468.33",
+        "Weighted Price": "154.26"
+    },
+    {
+        "Close": "187.5",
+        "High": "194.9",
+        "Low": "162.59806",
+        "Open": "163.83899",
+        "Timestamp": "2013-04-08",
+        "Volume (BTC)": "114126.51",
+        "Volume (Currency)": "20713163.11",
+        "Weighted Price": "181.49"
+    },
+    {
+        "Close": "230",
+        "High": "240.111",
+        "Low": "186.5",
+        "Open": "186.5",
+        "Timestamp": "2013-04-09",
+        "Volume (BTC)": "105724.64",
+        "Volume (Currency)": "22696282.53",
+        "Weighted Price": "214.67"
+    },
+    {
+        "Close": "165",
+        "High": "266",
+        "Low": "105",
+        "Open": "230.04359",
+        "Timestamp": "2013-04-10",
+        "Volume (BTC)": "190141.86",
+        "Volume (Currency)": "35109363.41",
+        "Weighted Price": "184.65"
+    },
+    {
+        "Close": "124.9",
+        "High": "188.7",
+        "Low": "110.20003",
+        "Open": "166.48159",
+        "Timestamp": "2013-04-11",
+        "Volume (BTC)": "118645.43",
+        "Volume (Currency)": "18855846.81",
+        "Weighted Price": "158.93"
+    },
+    {
+        "Close": "117",
+        "High": "140",
+        "Low": "54.25",
+        "Open": "124.9",
+        "Timestamp": "2013-04-12",
+        "Volume (BTC)": "556289.1",
+        "Volume (Currency)": "47600783.3",
+        "Weighted Price": "85.57"
+    },
+    {
+        "Close": "93",
+        "High": "130",
+        "Low": "85.5",
+        "Open": "117",
+        "Timestamp": "2013-04-13",
+        "Volume (BTC)": "238226.32",
+        "Volume (Currency)": "26254439.22",
+        "Weighted Price": "110.21"
+    },
+    {
+        "Close": "89.99999",
+        "High": "109.998",
+        "Low": "84.43689",
+        "Open": "93",
+        "Timestamp": "2013-04-14",
+        "Volume (BTC)": "166267.46",
+        "Volume (Currency)": "16195892.56",
+        "Weighted Price": "97.41"
+    },
+    {
+        "Close": "82.38601",
+        "High": "102",
+        "Low": "71.51",
+        "Open": "90",
+        "Timestamp": "2013-04-15",
+        "Volume (BTC)": "236632.26",
+        "Volume (Currency)": "20602989.31",
+        "Weighted Price": "87.07"
+    },
+    {
+        "Close": "68.35568",
+        "High": "84.5",
+        "Low": "50.01",
+        "Open": "82.5",
+        "Timestamp": "2013-04-16",
+        "Volume (BTC)": "572185.69",
+        "Volume (Currency)": "37382133.29",
+        "Weighted Price": "65.33"
+    },
+    {
+        "Close": "93.07",
+        "High": "98.77799",
+        "Low": "63.3",
+        "Open": "68.49",
+        "Timestamp": "2013-04-17",
+        "Volume (BTC)": "327596.55",
+        "Volume (Currency)": "27933826.14",
+        "Weighted Price": "85.27"
+    },
+    {
+        "Close": "109.01",
+        "High": "112.99999",
+        "Low": "86",
+        "Open": "93.07",
+        "Timestamp": "2013-04-18",
+        "Volume (BTC)": "172934.67",
+        "Volume (Currency)": "16840477.58",
+        "Weighted Price": "97.38"
+    },
+    {
+        "Close": "118.48",
+        "High": "136.4321",
+        "Low": "105.54",
+        "Open": "109.15263",
+        "Timestamp": "2013-04-19",
+        "Volume (BTC)": "257118.56",
+        "Volume (Currency)": "30707765.35",
+        "Weighted Price": "119.43"
+    },
+    {
+        "Close": "126.61552",
+        "High": "132",
+        "Low": "115",
+        "Open": "118.48001",
+        "Timestamp": "2013-04-20",
+        "Volume (BTC)": "74351.51",
+        "Volume (Currency)": "9221372.14",
+        "Weighted Price": "124.02"
+    },
+    {
+        "Close": "119.2",
+        "High": "130.49979",
+        "Low": "110",
+        "Open": "126.61553",
+        "Timestamp": "2013-04-21",
+        "Volume (BTC)": "99128.56",
+        "Volume (Currency)": "12043904.1",
+        "Weighted Price": "121.5"
+    },
+    {
+        "Close": "127.39999",
+        "High": "127.39999",
+        "Low": "118.5",
+        "Open": "118.5",
+        "Timestamp": "2013-04-22",
+        "Volume (BTC)": "59118.35",
+        "Volume (Currency)": "7285334.39",
+        "Weighted Price": "123.23"
+    },
+    {
+        "Close": "143.475",
+        "High": "144.019",
+        "Low": "124.97",
+        "Open": "127.39999",
+        "Timestamp": "2013-04-23",
+        "Volume (BTC)": "116098.21",
+        "Volume (Currency)": "15630270.39",
+        "Weighted Price": "134.63"
+    },
+    {
+        "Close": "154.2",
+        "High": "166.43438",
+        "Low": "140.96635",
+        "Open": "143.476",
+        "Timestamp": "2013-04-24",
+        "Volume (BTC)": "225857.24",
+        "Volume (Currency)": "34345816.98",
+        "Weighted Price": "152.07"
+    },
+    {
+        "Close": "141.71002",
+        "High": "162",
+        "Low": "120.089",
+        "Open": "154.9",
+        "Timestamp": "2013-04-25",
+        "Volume (BTC)": "187632.74",
+        "Volume (Currency)": "26844741.74",
+        "Weighted Price": "143.07"
+    },
+    {
+        "Close": "136.90001",
+        "High": "144.987",
+        "Low": "121.45164",
+        "Open": "141.71001",
+        "Timestamp": "2013-04-26",
+        "Volume (BTC)": "128988.67",
+        "Volume (Currency)": "17058551.43",
+        "Weighted Price": "132.25"
+    },
+    {
+        "Close": "128.00011",
+        "High": "139.88",
+        "Low": "122.71",
+        "Open": "136.89",
+        "Timestamp": "2013-04-27",
+        "Volume (BTC)": "59870.79",
+        "Volume (Currency)": "7853806.49",
+        "Weighted Price": "131.18"
+    },
+    {
+        "Close": "134.44444",
+        "High": "136.68",
+        "Low": "127.5",
+        "Open": "128.00011",
+        "Timestamp": "2013-04-28",
+        "Volume (BTC)": "27503.11",
+        "Volume (Currency)": "3662548.48",
+        "Weighted Price": "133.17"
+    },
+    {
+        "Close": "143.99991",
+        "High": "149.08",
+        "Low": "133",
+        "Open": "134.4",
+        "Timestamp": "2013-04-29",
+        "Volume (BTC)": "70186.33",
+        "Volume (Currency)": "9983975.08",
+        "Weighted Price": "142.25"
+    },
+    {
+        "Close": "139.2269",
+        "High": "146.93",
+        "Low": "134",
+        "Open": "143.80001",
+        "Timestamp": "2013-04-30",
+        "Volume (BTC)": "65198.58",
+        "Volume (Currency)": "9119200.99",
+        "Weighted Price": "139.87"
+    },
+    {
+        "Close": "116.37999",
+        "High": "140.06",
+        "Low": "104",
+        "Open": "139.00004",
+        "Timestamp": "2013-05-01",
+        "Volume (BTC)": "179988.85",
+        "Volume (Currency)": "21787942.86",
+        "Weighted Price": "121.05"
+    },
+    {
+        "Close": "106.25",
+        "High": "126.9",
+        "Low": "91.11",
+        "Open": "116.37999",
+        "Timestamp": "2013-05-02",
+        "Volume (BTC)": "234129.17",
+        "Volume (Currency)": "24932099.53",
+        "Weighted Price": "106.49"
+    },
+    {
+        "Close": "98.1",
+        "High": "109",
+        "Low": "79",
+        "Open": "106.5",
+        "Timestamp": "2013-05-03",
+        "Volume (BTC)": "246411.17",
+        "Volume (Currency)": "22496255.33",
+        "Weighted Price": "91.3"
+    },
+    {
+        "Close": "112.9",
+        "High": "116.3",
+        "Low": "92",
+        "Open": "98.10246",
+        "Timestamp": "2013-05-04",
+        "Volume (BTC)": "132582.59",
+        "Volume (Currency)": "14143158.98",
+        "Weighted Price": "106.67"
+    },
+    {
+        "Close": "115.98",
+        "High": "118.85",
+        "Low": "107",
+        "Open": "112.9",
+        "Timestamp": "2013-05-05",
+        "Volume (BTC)": "84177.84",
+        "Volume (Currency)": "9553872.26",
+        "Weighted Price": "113.5"
+    },
+    {
+        "Close": "112.25",
+        "High": "124.9",
+        "Low": "106.01",
+        "Open": "115.9372",
+        "Timestamp": "2013-05-06",
+        "Volume (BTC)": "150048.99",
+        "Volume (Currency)": "17604384.72",
+        "Weighted Price": "117.32"
+    },
+    {
+        "Close": "109.60013",
+        "High": "114",
+        "Low": "97.52",
+        "Open": "112.245",
+        "Timestamp": "2013-05-07",
+        "Volume (BTC)": "139626.72",
+        "Volume (Currency)": "14898971.67",
+        "Weighted Price": "106.71"
+    },
+    {
+        "Close": "113.2",
+        "High": "116.777",
+        "Low": "109.5",
+        "Open": "109.69773",
+        "Timestamp": "2013-05-08",
+        "Volume (BTC)": "61680.32",
+        "Volume (Currency)": "6990518.96",
+        "Weighted Price": "113.33"
+    },
+    {
+        "Close": "112.799",
+        "High": "113.71852",
+        "Low": "108.8",
+        "Open": "113.48999",
+        "Timestamp": "2013-05-09",
+        "Volume (BTC)": "26894.46",
+        "Volume (Currency)": "3003068.41",
+        "Weighted Price": "111.66"
+    },
+    {
+        "Close": "117.7",
+        "High": "122.5",
+        "Low": "111.54",
+        "Open": "112.799",
+        "Timestamp": "2013-05-10",
+        "Volume (BTC)": "77443.67",
+        "Volume (Currency)": "9140709.08",
+        "Weighted Price": "118.03"
+    },
+    {
+        "Close": "115.64",
+        "High": "118.74",
+        "Low": "113",
+        "Open": "117.59001",
+        "Timestamp": "2013-05-11",
+        "Volume (BTC)": "28023.47",
+        "Volume (Currency)": "3238018.29",
+        "Weighted Price": "115.55"
+    },
+    {
+        "Close": "114.82002",
+        "High": "117.47",
+        "Low": "112.4",
+        "Open": "115.65",
+        "Timestamp": "2013-05-12",
+        "Volume (BTC)": "20575.19",
+        "Volume (Currency)": "2357929.41",
+        "Weighted Price": "114.6"
+    },
+    {
+        "Close": "117.97968",
+        "High": "118.88",
+        "Low": "114.5002",
+        "Open": "114.82",
+        "Timestamp": "2013-05-13",
+        "Volume (BTC)": "26134.01",
+        "Volume (Currency)": "3058207.49",
+        "Weighted Price": "117.02"
+    },
+    {
+        "Close": "111.4",
+        "High": "119.80002",
+        "Low": "109.42198",
+        "Open": "117.97968",
+        "Timestamp": "2013-05-14",
+        "Volume (BTC)": "87726.09",
+        "Volume (Currency)": "10075279.73",
+        "Weighted Price": "114.85"
+    },
+    {
+        "Close": "114.22",
+        "High": "116.44",
+        "Low": "103.01847",
+        "Open": "111.29998",
+        "Timestamp": "2013-05-15",
+        "Volume (BTC)": "117898.23",
+        "Volume (Currency)": "12997994.8",
+        "Weighted Price": "110.25"
+    },
+    {
+        "Close": "118.21",
+        "High": "118.96999",
+        "Low": "112.1",
+        "Open": "114.22",
+        "Timestamp": "2013-05-16",
+        "Volume (BTC)": "45071.68",
+        "Volume (Currency)": "5202992.37",
+        "Weighted Price": "115.44"
+    },
+    {
+        "Close": "123.49997",
+        "High": "125.5555",
+        "Low": "116.5712",
+        "Open": "118.21",
+        "Timestamp": "2013-05-17",
+        "Volume (BTC)": "79063.33",
+        "Volume (Currency)": "9600699.71",
+        "Weighted Price": "121.43"
+    },
+    {
+        "Close": "123.211",
+        "High": "125.31189",
+        "Low": "122.25",
+        "Open": "123.5",
+        "Timestamp": "2013-05-18",
+        "Volume (BTC)": "22615.72",
+        "Volume (Currency)": "2800255.89",
+        "Weighted Price": "123.82"
+    },
+    {
+        "Close": "122.5",
+        "High": "124.50101",
+        "Low": "119.5",
+        "Open": "123.25",
+        "Timestamp": "2013-05-19",
+        "Volume (BTC)": "20478.43",
+        "Volume (Currency)": "2495650.34",
+        "Weighted Price": "121.87"
+    },
+    {
+        "Close": "122.02",
+        "High": "123.69",
+        "Low": "120.1",
+        "Open": "122.5",
+        "Timestamp": "2013-05-20",
+        "Volume (BTC)": "17238.12",
+        "Volume (Currency)": "2108418.94",
+        "Weighted Price": "122.31"
+    },
+    {
+        "Close": "122.89001",
+        "High": "123.08085",
+        "Low": "121.1",
+        "Open": "121.99999",
+        "Timestamp": "2013-05-21",
+        "Volume (BTC)": "13313.67",
+        "Volume (Currency)": "1628026.67",
+        "Weighted Price": "122.28"
+    },
+    {
+        "Close": "123.8",
+        "High": "124.5",
+        "Low": "122",
+        "Open": "122.89001",
+        "Timestamp": "2013-05-22",
+        "Volume (BTC)": "18198.48",
+        "Volume (Currency)": "2238395.81",
+        "Weighted Price": "123"
+    },
+    {
+        "Close": "126.3",
+        "High": "126.93446",
+        "Low": "123",
+        "Open": "123.80001",
+        "Timestamp": "2013-05-23",
+        "Volume (BTC)": "22045.5",
+        "Volume (Currency)": "2762861.55",
+        "Weighted Price": "125.33"
+    },
+    {
+        "Close": "133.1",
+        "High": "133.98",
+        "Low": "125.35502",
+        "Open": "126.3",
+        "Timestamp": "2013-05-24",
+        "Volume (BTC)": "48649.99",
+        "Volume (Currency)": "6317090.66",
+        "Weighted Price": "129.85"
+    },
+    {
+        "Close": "131.986",
+        "High": "133.5",
+        "Low": "128.2",
+        "Open": "133.4",
+        "Timestamp": "2013-05-25",
+        "Volume (BTC)": "16816.58",
+        "Volume (Currency)": "2200845.29",
+        "Weighted Price": "130.87"
+    },
+    {
+        "Close": "133.5",
+        "High": "136",
+        "Low": "130.61",
+        "Open": "131.986",
+        "Timestamp": "2013-05-26",
+        "Volume (BTC)": "23327.21",
+        "Volume (Currency)": "3126240.29",
+        "Weighted Price": "134.02"
+    },
+    {
+        "Close": "129.76999",
+        "High": "135.47",
+        "Low": "124",
+        "Open": "133.5",
+        "Timestamp": "2013-05-27",
+        "Volume (BTC)": "46796.59",
+        "Volume (Currency)": "6052716.47",
+        "Weighted Price": "129.34"
+    },
+    {
+        "Close": "128.99996",
+        "High": "130.62998",
+        "Low": "125.4",
+        "Open": "129.76994",
+        "Timestamp": "2013-05-28",
+        "Volume (BTC)": "22748.7",
+        "Volume (Currency)": "2911329.39",
+        "Weighted Price": "127.98"
+    },
+    {
+        "Close": "132.25",
+        "High": "132.71988",
+        "Low": "127.6",
+        "Open": "128.99901",
+        "Timestamp": "2013-05-29",
+        "Volume (BTC)": "19177.31",
+        "Volume (Currency)": "2500237.39",
+        "Weighted Price": "130.37"
+    },
+    {
+        "Close": "128.79901",
+        "High": "132.4",
+        "Low": "126.5",
+        "Open": "132.25",
+        "Timestamp": "2013-05-30",
+        "Volume (BTC)": "24566.45",
+        "Volume (Currency)": "3179031.6",
+        "Weighted Price": "129.41"
+    },
+    {
+        "Close": "128.81505",
+        "High": "130",
+        "Low": "126.33",
+        "Open": "128.8",
+        "Timestamp": "2013-05-31",
+        "Volume (BTC)": "16466.87",
+        "Volume (Currency)": "2110227.34",
+        "Weighted Price": "128.15"
+    },
+    {
+        "Close": "129.3",
+        "High": "129.78999",
+        "Low": "127.10001",
+        "Open": "128.82506",
+        "Timestamp": "2013-06-01",
+        "Volume (BTC)": "6309.92",
+        "Volume (Currency)": "810240.48",
+        "Weighted Price": "128.41"
+    },
+    {
+        "Close": "122.5",
+        "High": "130.1",
+        "Low": "115",
+        "Open": "129.2981",
+        "Timestamp": "2013-06-02",
+        "Volume (BTC)": "101114.74",
+        "Volume (Currency)": "12332357.62",
+        "Weighted Price": "121.96"
+    },
+    {
+        "Close": "120.73716",
+        "High": "122.78483",
+        "Low": "115.111",
+        "Open": "122.49962",
+        "Timestamp": "2013-06-03",
+        "Volume (BTC)": "28795.29",
+        "Volume (Currency)": "3426873.4",
+        "Weighted Price": "119.01"
+    },
+    {
+        "Close": "121.39997",
+        "High": "123.99",
+        "Low": "118.78525",
+        "Open": "121.21357",
+        "Timestamp": "2013-06-04",
+        "Volume (BTC)": "21749.73",
+        "Volume (Currency)": "2633256.94",
+        "Weighted Price": "121.07"
+    },
+    {
+        "Close": "121.90001",
+        "High": "123.5",
+        "Low": "119.5",
+        "Open": "121.39997",
+        "Timestamp": "2013-06-05",
+        "Volume (BTC)": "16591.69",
+        "Volume (Currency)": "2015275.84",
+        "Weighted Price": "121.46"
+    },
+    {
+        "Close": "118.9699",
+        "High": "123.29999",
+        "Low": "117",
+        "Open": "121.9",
+        "Timestamp": "2013-06-06",
+        "Volume (BTC)": "21921.97",
+        "Volume (Currency)": "2623564.82",
+        "Weighted Price": "119.68"
+    },
+    {
+        "Close": "111",
+        "High": "119.13333",
+        "Low": "106.15",
+        "Open": "118.02768",
+        "Timestamp": "2013-06-07",
+        "Volume (BTC)": "65643.28",
+        "Volume (Currency)": "7357062.32",
+        "Weighted Price": "112.08"
+    },
+    {
+        "Close": "107.89242",
+        "High": "113.1862",
+        "Low": "107",
+        "Open": "112.12",
+        "Timestamp": "2013-06-08",
+        "Volume (BTC)": "17113.57",
+        "Volume (Currency)": "1862090.61",
+        "Weighted Price": "108.81"
+    },
+    {
+        "Close": "100.43743",
+        "High": "108.99",
+        "Low": "88",
+        "Open": "107.89611",
+        "Timestamp": "2013-06-09",
+        "Volume (BTC)": "149250.92",
+        "Volume (Currency)": "14628128.89",
+        "Weighted Price": "98.01"
+    },
+    {
+        "Close": "106.35001",
+        "High": "110.63051",
+        "Low": "95",
+        "Open": "101",
+        "Timestamp": "2013-06-10",
+        "Volume (BTC)": "64125.61",
+        "Volume (Currency)": "6764668.73",
+        "Weighted Price": "105.49"
+    },
+    {
+        "Close": "109",
+        "High": "109.6",
+        "Low": "103.23021",
+        "Open": "106.10002",
+        "Timestamp": "2013-06-11",
+        "Volume (BTC)": "15933.45",
+        "Volume (Currency)": "1704624.52",
+        "Weighted Price": "106.98"
+    },
+    {
+        "Close": "108.77592",
+        "High": "112.25",
+        "Low": "106",
+        "Open": "109",
+        "Timestamp": "2013-06-12",
+        "Volume (BTC)": "17540.54",
+        "Volume (Currency)": "1916593.99",
+        "Weighted Price": "109.27"
+    },
+    {
+        "Close": "103.949",
+        "High": "110.3",
+        "Low": "100.3",
+        "Open": "109.14444",
+        "Timestamp": "2013-06-13",
+        "Volume (BTC)": "30276.66",
+        "Volume (Currency)": "3186391.58",
+        "Weighted Price": "105.24"
+    },
+    {
+        "Close": "100",
+        "High": "104.7",
+        "Low": "97.1",
+        "Open": "103.94895",
+        "Timestamp": "2013-06-14",
+        "Volume (BTC)": "35923.53",
+        "Volume (Currency)": "3615245.12",
+        "Weighted Price": "100.64"
+    },
+    {
+        "Close": "99.8",
+        "High": "103.7",
+        "Low": "97.5",
+        "Open": "99.99999",
+        "Timestamp": "2013-06-15",
+        "Volume (BTC)": "22476.84",
+        "Volume (Currency)": "2257850.79",
+        "Weighted Price": "100.45"
+    },
+    {
+        "Close": "99.9",
+        "High": "101.7499",
+        "Low": "98.90017",
+        "Open": "99.79",
+        "Timestamp": "2013-06-16",
+        "Volume (BTC)": "8619.58",
+        "Volume (Currency)": "861313.23",
+        "Weighted Price": "99.93"
+    },
+    {
+        "Close": "101.95",
+        "High": "102.4",
+        "Low": "98.9",
+        "Open": "99.9",
+        "Timestamp": "2013-06-17",
+        "Volume (BTC)": "15024.77",
+        "Volume (Currency)": "1516435.36",
+        "Weighted Price": "100.93"
+    },
+    {
+        "Close": "107.34998",
+        "High": "113.3",
+        "Low": "101.03311",
+        "Open": "101.95",
+        "Timestamp": "2013-06-18",
+        "Volume (BTC)": "60446.31",
+        "Volume (Currency)": "6491826.47",
+        "Weighted Price": "107.4"
+    },
+    {
+        "Close": "108.251",
+        "High": "110.9863",
+        "Low": "104.6603",
+        "Open": "107.05",
+        "Timestamp": "2013-06-19",
+        "Volume (BTC)": "17421",
+        "Volume (Currency)": "1879212.32",
+        "Weighted Price": "107.87"
+    },
+    {
+        "Close": "111.29",
+        "High": "114.48",
+        "Low": "107.12222",
+        "Open": "108.25",
+        "Timestamp": "2013-06-20",
+        "Volume (BTC)": "42909.53",
+        "Volume (Currency)": "4774161.1",
+        "Weighted Price": "111.26"
+    },
+    {
+        "Close": "109.5",
+        "High": "115.005",
+        "Low": "107.56",
+        "Open": "111.09999",
+        "Timestamp": "2013-06-21",
+        "Volume (BTC)": "37916.61",
+        "Volume (Currency)": "4221551.74",
+        "Weighted Price": "111.34"
+    },
+    {
+        "Close": "108.2",
+        "High": "109.95653",
+        "Low": "107.5111",
+        "Open": "108.9",
+        "Timestamp": "2013-06-22",
+        "Volume (BTC)": "7196.65",
+        "Volume (Currency)": "781056.97",
+        "Weighted Price": "108.53"
+    },
+    {
+        "Close": "107.90001",
+        "High": "109",
+        "Low": "106.19675",
+        "Open": "108.00003",
+        "Timestamp": "2013-06-23",
+        "Volume (BTC)": "10974.21",
+        "Volume (Currency)": "1179572.74",
+        "Weighted Price": "107.49"
+    },
+    {
+        "Close": "102.09",
+        "High": "108.334",
+        "Low": "100.761",
+        "Open": "107.60002",
+        "Timestamp": "2013-06-24",
+        "Volume (BTC)": "28755.72",
+        "Volume (Currency)": "2970209.43",
+        "Weighted Price": "103.29"
+    },
+    {
+        "Close": "103.32933",
+        "High": "109.98",
+        "Low": "100",
+        "Open": "102.97996",
+        "Timestamp": "2013-06-25",
+        "Volume (BTC)": "93495.87",
+        "Volume (Currency)": "9737161.74",
+        "Weighted Price": "104.15"
+    },
+    {
+        "Close": "104",
+        "High": "105.4899",
+        "Low": "101.8322",
+        "Open": "103.84",
+        "Timestamp": "2013-06-26",
+        "Volume (BTC)": "13074.01",
+        "Volume (Currency)": "1361155.01",
+        "Weighted Price": "104.11"
+    },
+    {
+        "Close": "101.73678",
+        "High": "104",
+        "Low": "100.055",
+        "Open": "103.99999",
+        "Timestamp": "2013-06-27",
+        "Volume (BTC)": "14516.46",
+        "Volume (Currency)": "1481838.89",
+        "Weighted Price": "102.08"
+    },
+    {
+        "Close": "94.66",
+        "High": "101.78799",
+        "Low": "92.25",
+        "Open": "101.60626",
+        "Timestamp": "2013-06-28",
+        "Volume (BTC)": "47455.09",
+        "Volume (Currency)": "4594020.57",
+        "Weighted Price": "96.81"
+    },
+    {
+        "Close": "94.999",
+        "High": "100.4398",
+        "Low": "93",
+        "Open": "94.7",
+        "Timestamp": "2013-06-29",
+        "Volume (BTC)": "25419.63",
+        "Volume (Currency)": "2457873.24",
+        "Weighted Price": "96.69"
+    },
+    {
+        "Close": "97.51",
+        "High": "98.12228",
+        "Low": "93.85",
+        "Open": "94.999",
+        "Timestamp": "2013-06-30",
+        "Volume (BTC)": "8488.32",
+        "Volume (Currency)": "822038.9",
+        "Weighted Price": "96.84"
+    },
+    {
+        "Close": "88.05",
+        "High": "98.1801",
+        "Low": "86.011",
+        "Open": "97.50888",
+        "Timestamp": "2013-07-01",
+        "Volume (BTC)": "52796.2",
+        "Volume (Currency)": "4817325.36",
+        "Weighted Price": "91.24"
+    },
+    {
+        "Close": "90.40502",
+        "High": "92.57",
+        "Low": "87.51",
+        "Open": "88.04",
+        "Timestamp": "2013-07-02",
+        "Volume (BTC)": "27396.38",
+        "Volume (Currency)": "2466507.43",
+        "Weighted Price": "90.03"
+    },
+    {
+        "Close": "78.89",
+        "High": "91.2",
+        "Low": "76",
+        "Open": "90.04007",
+        "Timestamp": "2013-07-03",
+        "Volume (BTC)": "73017.06",
+        "Volume (Currency)": "6073317.69",
+        "Weighted Price": "83.18"
+    },
+    {
+        "Close": "80.03565",
+        "High": "84.27001",
+        "Low": "72",
+        "Open": "78.20001",
+        "Timestamp": "2013-07-04",
+        "Volume (BTC)": "63440.37",
+        "Volume (Currency)": "4966499.64",
+        "Weighted Price": "78.29"
+    },
+    {
+        "Close": "68.50001",
+        "High": "80.60299",
+        "Low": "65.42448",
+        "Open": "80.04214",
+        "Timestamp": "2013-07-05",
+        "Volume (BTC)": "90767.53",
+        "Volume (Currency)": "6454413.42",
+        "Weighted Price": "71.11"
+    },
+    {
+        "Close": "69.655",
+        "High": "74.99997",
+        "Low": "66.8119",
+        "Open": "68.88997",
+        "Timestamp": "2013-07-06",
+        "Volume (BTC)": "40793.42",
+        "Volume (Currency)": "2866037.15",
+        "Weighted Price": "70.26"
+    },
+    {
+        "Close": "76.5",
+        "High": "77",
+        "Low": "66.60001",
+        "Open": "69.66206",
+        "Timestamp": "2013-07-07",
+        "Volume (BTC)": "42847.02",
+        "Volume (Currency)": "3032307.79",
+        "Weighted Price": "70.77"
+    },
+    {
+        "Close": "76.00003",
+        "High": "80",
+        "Low": "72.46",
+        "Open": "76.5",
+        "Timestamp": "2013-07-08",
+        "Volume (BTC)": "58514.64",
+        "Volume (Currency)": "4503253.45",
+        "Weighted Price": "76.96"
+    },
+    {
+        "Close": "76.7",
+        "High": "78.3",
+        "Low": "72.51",
+        "Open": "76.00101",
+        "Timestamp": "2013-07-09",
+        "Volume (BTC)": "32217.4",
+        "Volume (Currency)": "2437106.04",
+        "Weighted Price": "75.65"
+    },
+    {
+        "Close": "88",
+        "High": "89.84",
+        "Low": "75.53",
+        "Open": "76.7",
+        "Timestamp": "2013-07-10",
+        "Volume (BTC)": "59672.71",
+        "Volume (Currency)": "4916740.89",
+        "Weighted Price": "82.4"
+    },
+    {
+        "Close": "88.97901",
+        "High": "90.7",
+        "Low": "85.00001",
+        "Open": "87.94636",
+        "Timestamp": "2013-07-11",
+        "Volume (BTC)": "35244.01",
+        "Volume (Currency)": "3084484.64",
+        "Weighted Price": "87.52"
+    },
+    {
+        "Close": "93.98994",
+        "High": "104.17188",
+        "Low": "88",
+        "Open": "88.97901",
+        "Timestamp": "2013-07-12",
+        "Volume (BTC)": "101213.45",
+        "Volume (Currency)": "9759561.48",
+        "Weighted Price": "96.43"
+    },
+    {
+        "Close": "98.32",
+        "High": "98.32",
+        "Low": "87.76404",
+        "Open": "93.98994",
+        "Timestamp": "2013-07-13",
+        "Volume (BTC)": "34261.15",
+        "Volume (Currency)": "3186590.74",
+        "Weighted Price": "93.01"
+    },
+    {
+        "Close": "94.41986",
+        "High": "99",
+        "Low": "92.86",
+        "Open": "98.32",
+        "Timestamp": "2013-07-14",
+        "Volume (BTC)": "12218.47",
+        "Volume (Currency)": "1171458.48",
+        "Weighted Price": "95.88"
+    },
+    {
+        "Close": "98.89028",
+        "High": "101.94",
+        "Low": "93.11",
+        "Open": "94.33999",
+        "Timestamp": "2013-07-15",
+        "Volume (BTC)": "34121.74",
+        "Volume (Currency)": "3366165.02",
+        "Weighted Price": "98.65"
+    },
+    {
+        "Close": "97.1",
+        "High": "100.7319",
+        "Low": "96",
+        "Open": "98.89999",
+        "Timestamp": "2013-07-16",
+        "Volume (BTC)": "15900.43",
+        "Volume (Currency)": "1560692.7",
+        "Weighted Price": "98.15"
+    },
+    {
+        "Close": "98.50001",
+        "High": "100",
+        "Low": "96.18",
+        "Open": "96.97",
+        "Timestamp": "2013-07-17",
+        "Volume (BTC)": "16680.42",
+        "Volume (Currency)": "1642097.6",
+        "Weighted Price": "98.44"
+    },
+    {
+        "Close": "90.06889",
+        "High": "98.8",
+        "Low": "86.2",
+        "Open": "98.50002",
+        "Timestamp": "2013-07-18",
+        "Volume (BTC)": "58919.25",
+        "Volume (Currency)": "5358091.05",
+        "Weighted Price": "90.94"
+    },
+    {
+        "Close": "92",
+        "High": "95.2001",
+        "Low": "87.6",
+        "Open": "90.08",
+        "Timestamp": "2013-07-19",
+        "Volume (BTC)": "26957.55",
+        "Volume (Currency)": "2474448.15",
+        "Weighted Price": "91.79"
+    },
+    {
+        "Close": "89.82138",
+        "High": "93.10072",
+        "Low": "89.27",
+        "Open": "92",
+        "Timestamp": "2013-07-20",
+        "Volume (BTC)": "9066",
+        "Volume (Currency)": "829452.96",
+        "Weighted Price": "91.49"
+    },
+    {
+        "Close": "91.998",
+        "High": "92",
+        "Low": "88",
+        "Open": "89.94998",
+        "Timestamp": "2013-07-21",
+        "Volume (BTC)": "8614.05",
+        "Volume (Currency)": "769333.68",
+        "Weighted Price": "89.31"
+    },
+    {
+        "Close": "91.601",
+        "High": "92",
+        "Low": "89.8",
+        "Open": "91.98",
+        "Timestamp": "2013-07-22",
+        "Volume (BTC)": "8215.9",
+        "Volume (Currency)": "751344.12",
+        "Weighted Price": "91.45"
+    },
+    {
+        "Close": "95.55851",
+        "High": "97.13124",
+        "Low": "91.60001",
+        "Open": "91.601",
+        "Timestamp": "2013-07-23",
+        "Volume (BTC)": "23790.42",
+        "Volume (Currency)": "2251574.55",
+        "Weighted Price": "94.64"
+    },
+    {
+        "Close": "95.08999",
+        "High": "95.99",
+        "Low": "92.3",
+        "Open": "95.61155",
+        "Timestamp": "2013-07-24",
+        "Volume (BTC)": "13827.2",
+        "Volume (Currency)": "1304035.34",
+        "Weighted Price": "94.31"
+    },
+    {
+        "Close": "96.95",
+        "High": "97.4767",
+        "Low": "93.57",
+        "Open": "95.09",
+        "Timestamp": "2013-07-25",
+        "Volume (BTC)": "21666.37",
+        "Volume (Currency)": "2086771.46",
+        "Weighted Price": "96.31"
+    },
+    {
+        "Close": "96.02015",
+        "High": "97.476",
+        "Low": "96",
+        "Open": "96.99997",
+        "Timestamp": "2013-07-26",
+        "Volume (BTC)": "10435.8",
+        "Volume (Currency)": "1004832.58",
+        "Weighted Price": "96.29"
+    },
+    {
+        "Close": "94.4",
+        "High": "97",
+        "Low": "93",
+        "Open": "96.02015",
+        "Timestamp": "2013-07-27",
+        "Volume (BTC)": "14637.48",
+        "Volume (Currency)": "1383243.82",
+        "Weighted Price": "94.5"
+    },
+    {
+        "Close": "98.78002",
+        "High": "100.5771",
+        "Low": "94",
+        "Open": "94.2",
+        "Timestamp": "2013-07-28",
+        "Volume (BTC)": "42022.37",
+        "Volume (Currency)": "4137932.56",
+        "Weighted Price": "98.47"
+    },
+    {
+        "Close": "101.484",
+        "High": "102.85",
+        "Low": "98.45",
+        "Open": "98.78009",
+        "Timestamp": "2013-07-29",
+        "Volume (BTC)": "23930.02",
+        "Volume (Currency)": "2412405.74",
+        "Weighted Price": "100.81"
+    },
+    {
+        "Close": "107.96",
+        "High": "107.99",
+        "Low": "100.47",
+        "Open": "101.21001",
+        "Timestamp": "2013-07-30",
+        "Volume (BTC)": "26911.77",
+        "Volume (Currency)": "2793637.02",
+        "Weighted Price": "103.81"
+    },
+    {
+        "Close": "106.21188",
+        "High": "111.65202",
+        "Low": "103.55",
+        "Open": "107.26367",
+        "Timestamp": "2013-07-31",
+        "Volume (BTC)": "44785.6",
+        "Volume (Currency)": "4838033.8",
+        "Weighted Price": "108.03"
+    },
+    {
+        "Close": "104",
+        "High": "108",
+        "Low": "103",
+        "Open": "106.22691",
+        "Timestamp": "2013-08-01",
+        "Volume (BTC)": "13994.49",
+        "Volume (Currency)": "1473502.4",
+        "Weighted Price": "105.29"
+    },
+    {
+        "Close": "104.50102",
+        "High": "108",
+        "Low": "101.21111",
+        "Open": "104.62049",
+        "Timestamp": "2013-08-02",
+        "Volume (BTC)": "26584.85",
+        "Volume (Currency)": "2793208.56",
+        "Weighted Price": "105.07"
+    },
+    {
+        "Close": "104.95",
+        "High": "105.8852",
+        "Low": "102",
+        "Open": "104.6",
+        "Timestamp": "2013-08-03",
+        "Volume (BTC)": "8342.92",
+        "Volume (Currency)": "866021.18",
+        "Weighted Price": "103.8"
+    },
+    {
+        "Close": "105.12",
+        "High": "106",
+        "Low": "103.50108",
+        "Open": "104.9",
+        "Timestamp": "2013-08-04",
+        "Volume (BTC)": "6101.21",
+        "Volume (Currency)": "639772.27",
+        "Weighted Price": "104.86"
+    },
+    {
+        "Close": "106.72001",
+        "High": "107.77",
+        "Low": "105",
+        "Open": "105.12",
+        "Timestamp": "2013-08-05",
+        "Volume (BTC)": "14507.93",
+        "Volume (Currency)": "1543737.67",
+        "Weighted Price": "106.41"
+    },
+    {
+        "Close": "106.55641",
+        "High": "107.5",
+        "Low": "105.11111",
+        "Open": "106.22002",
+        "Timestamp": "2013-08-06",
+        "Volume (BTC)": "12234.57",
+        "Volume (Currency)": "1301008.13",
+        "Weighted Price": "106.34"
+    },
+    {
+        "Close": "105.98993",
+        "High": "106.96",
+        "Low": "105.22",
+        "Open": "106.5564",
+        "Timestamp": "2013-08-07",
+        "Volume (BTC)": "6791.45",
+        "Volume (Currency)": "719935.22",
+        "Weighted Price": "106.01"
+    },
+    {
+        "Close": "103.05",
+        "High": "106.65",
+        "Low": "100.95969",
+        "Open": "105.98992",
+        "Timestamp": "2013-08-08",
+        "Volume (BTC)": "23221.29",
+        "Volume (Currency)": "2397802.03",
+        "Weighted Price": "103.26"
+    },
+    {
+        "Close": "102.8",
+        "High": "105.78999",
+        "Low": "101.935",
+        "Open": "103.07",
+        "Timestamp": "2013-08-09",
+        "Volume (BTC)": "10979.39",
+        "Volume (Currency)": "1133150.53",
+        "Weighted Price": "103.21"
+    },
+    {
+        "Close": "102.99999",
+        "High": "103.89999",
+        "Low": "102.38001",
+        "Open": "102.38002",
+        "Timestamp": "2013-08-10",
+        "Volume (BTC)": "3411.33",
+        "Volume (Currency)": "351636.37",
+        "Weighted Price": "103.08"
+    },
+    {
+        "Close": "105",
+        "High": "105.19",
+        "Low": "102.7",
+        "Open": "102.99999",
+        "Timestamp": "2013-08-11",
+        "Volume (BTC)": "7870.9",
+        "Volume (Currency)": "820721.72",
+        "Weighted Price": "104.27"
+    },
+    {
+        "Close": "106.81349",
+        "High": "108.121",
+        "Low": "103.5",
+        "Open": "105",
+        "Timestamp": "2013-08-12",
+        "Volume (BTC)": "19141.6",
+        "Volume (Currency)": "2030771.27",
+        "Weighted Price": "106.09"
+    },
+    {
+        "Close": "109.6",
+        "High": "109.64",
+        "Low": "104.5",
+        "Open": "106.98999",
+        "Timestamp": "2013-08-13",
+        "Volume (BTC)": "17808.47",
+        "Volume (Currency)": "1912320.25",
+        "Weighted Price": "107.38"
+    },
+    {
+        "Close": "112.56205",
+        "High": "115",
+        "Low": "108",
+        "Open": "109.42519",
+        "Timestamp": "2013-08-14",
+        "Volume (BTC)": "49406.68",
+        "Volume (Currency)": "5567652.07",
+        "Weighted Price": "112.69"
+    },
+    {
+        "Close": "109.99497",
+        "High": "113.321",
+        "Low": "108.78",
+        "Open": "112.56206",
+        "Timestamp": "2013-08-15",
+        "Volume (BTC)": "14794.82",
+        "Volume (Currency)": "1643457.67",
+        "Weighted Price": "111.08"
+    },
+    {
+        "Close": "108.99438",
+        "High": "112.3",
+        "Low": "108.21",
+        "Open": "109.10523",
+        "Timestamp": "2013-08-16",
+        "Volume (BTC)": "12567.48",
+        "Volume (Currency)": "1378751.98",
+        "Weighted Price": "109.71"
+    },
+    {
+        "Close": "112.75",
+        "High": "114",
+        "Low": "108.225",
+        "Open": "108.99499",
+        "Timestamp": "2013-08-17",
+        "Volume (BTC)": "12258.66",
+        "Volume (Currency)": "1373044.65",
+        "Weighted Price": "112.01"
+    },
+    {
+        "Close": "113.38",
+        "High": "114.69",
+        "Low": "112",
+        "Open": "112.76",
+        "Timestamp": "2013-08-18",
+        "Volume (BTC)": "9324.88",
+        "Volume (Currency)": "1059845.23",
+        "Weighted Price": "113.66"
+    },
+    {
+        "Close": "118.50203",
+        "High": "123.74518",
+        "Low": "111.771",
+        "Open": "113.395",
+        "Timestamp": "2013-08-19",
+        "Volume (BTC)": "51420.13",
+        "Volume (Currency)": "6088398.47",
+        "Weighted Price": "118.4"
+    },
+    {
+        "Close": "121.20001",
+        "High": "123.01111",
+        "Low": "116.817",
+        "Open": "119",
+        "Timestamp": "2013-08-20",
+        "Volume (BTC)": "23213.86",
+        "Volume (Currency)": "2803868.53",
+        "Weighted Price": "120.78"
+    },
+    {
+        "Close": "123.30002",
+        "High": "125",
+        "Low": "119.68162",
+        "Open": "121.20003",
+        "Timestamp": "2013-08-21",
+        "Volume (BTC)": "29616.91",
+        "Volume (Currency)": "3637947.82",
+        "Weighted Price": "122.83"
+    },
+    {
+        "Close": "121.99994",
+        "High": "124.49",
+        "Low": "120.54",
+        "Open": "123.13496",
+        "Timestamp": "2013-08-22",
+        "Volume (BTC)": "12815.39",
+        "Volume (Currency)": "1563933.74",
+        "Weighted Price": "122.04"
+    },
+    {
+        "Close": "118.51002",
+        "High": "122",
+        "Low": "118.444",
+        "Open": "121.99993",
+        "Timestamp": "2013-08-23",
+        "Volume (BTC)": "18231.25",
+        "Volume (Currency)": "2180668.6",
+        "Weighted Price": "119.61"
+    },
+    {
+        "Close": "119.60255",
+        "High": "121.39",
+        "Low": "118.02",
+        "Open": "118.51003",
+        "Timestamp": "2013-08-24",
+        "Volume (BTC)": "8370.82",
+        "Volume (Currency)": "1001638.16",
+        "Weighted Price": "119.66"
+    },
+    {
+        "Close": "122.11102",
+        "High": "122.99",
+        "Low": "119.14",
+        "Open": "119.60255",
+        "Timestamp": "2013-08-25",
+        "Volume (BTC)": "7101.52",
+        "Volume (Currency)": "864221.29",
+        "Weighted Price": "121.7"
+    },
+    {
+        "Close": "120.07",
+        "High": "122.96996",
+        "Low": "119.91611",
+        "Open": "122.111",
+        "Timestamp": "2013-08-26",
+        "Volume (BTC)": "10115.28",
+        "Volume (Currency)": "1226894.28",
+        "Weighted Price": "121.29"
+    },
+    {
+        "Close": "131.295",
+        "High": "133",
+        "Low": "120",
+        "Open": "120.1",
+        "Timestamp": "2013-08-27",
+        "Volume (BTC)": "52815.73",
+        "Volume (Currency)": "6753064.35",
+        "Weighted Price": "127.86"
+    },
+    {
+        "Close": "128.76",
+        "High": "131.72442",
+        "Low": "128.02",
+        "Open": "130.20501",
+        "Timestamp": "2013-08-28",
+        "Volume (BTC)": "11556.09",
+        "Volume (Currency)": "1498911.33",
+        "Weighted Price": "129.71"
+    },
+    {
+        "Close": "129.30034",
+        "High": "131.2",
+        "Low": "128.18",
+        "Open": "128.57206",
+        "Timestamp": "2013-08-29",
+        "Volume (BTC)": "7362.92",
+        "Volume (Currency)": "950327.42",
+        "Weighted Price": "129.07"
+    },
+    {
+        "Close": "138.03002",
+        "High": "142.76173",
+        "Low": "128.56",
+        "Open": "129.30033",
+        "Timestamp": "2013-08-30",
+        "Volume (BTC)": "44989.75",
+        "Volume (Currency)": "6130666.31",
+        "Weighted Price": "136.27"
+    },
+    {
+        "Close": "141",
+        "High": "148.7",
+        "Low": "135.89",
+        "Open": "138.03002",
+        "Timestamp": "2013-08-31",
+        "Volume (BTC)": "30617.8",
+        "Volume (Currency)": "4379539.86",
+        "Weighted Price": "143.04"
+    },
+    {
+        "Close": "146.01003",
+        "High": "147.29",
+        "Low": "141",
+        "Open": "141",
+        "Timestamp": "2013-09-01",
+        "Volume (BTC)": "13933.38",
+        "Volume (Currency)": "2012831.97",
+        "Weighted Price": "144.46"
+    },
+    {
+        "Close": "144",
+        "High": "148.5",
+        "Low": "142.11",
+        "Open": "146.01005",
+        "Timestamp": "2013-09-02",
+        "Volume (BTC)": "10444.51",
+        "Volume (Currency)": "1515953.55",
+        "Weighted Price": "145.14"
+    },
+    {
+        "Close": "144",
+        "High": "148.90893",
+        "Low": "142.2",
+        "Open": "144",
+        "Timestamp": "2013-09-03",
+        "Volume (BTC)": "15761.47",
+        "Volume (Currency)": "2289067.06",
+        "Weighted Price": "145.23"
+    },
+    {
+        "Close": "132.51",
+        "High": "145.8",
+        "Low": "130.08998",
+        "Open": "144",
+        "Timestamp": "2013-09-04",
+        "Volume (BTC)": "27617.96",
+        "Volume (Currency)": "3789771.82",
+        "Weighted Price": "137.22"
+    },
+    {
+        "Close": "130.20002",
+        "High": "137.97",
+        "Low": "127.24164",
+        "Open": "132.51",
+        "Timestamp": "2013-09-05",
+        "Volume (BTC)": "25687.39",
+        "Volume (Currency)": "3388171.05",
+        "Weighted Price": "131.9"
+    },
+    {
+        "Close": "121.9",
+        "High": "133.99999",
+        "Low": "121.9",
+        "Open": "131.65",
+        "Timestamp": "2013-09-06",
+        "Volume (BTC)": "18159.82",
+        "Volume (Currency)": "2306510.21",
+        "Weighted Price": "127.01"
+    },
+    {
+        "Close": "128.99496",
+        "High": "131.02499",
+        "Low": "121.25",
+        "Open": "122.41",
+        "Timestamp": "2013-09-07",
+        "Volume (BTC)": "13551.3",
+        "Volume (Currency)": "1711444.13",
+        "Weighted Price": "126.29"
+    },
+    {
+        "Close": "126.31501",
+        "High": "129.86999",
+        "Low": "124.06",
+        "Open": "128.5",
+        "Timestamp": "2013-09-08",
+        "Volume (BTC)": "7127.43",
+        "Volume (Currency)": "898013.73",
+        "Weighted Price": "125.99"
+    },
+    {
+        "Close": "133.1",
+        "High": "137.48007",
+        "Low": "124",
+        "Open": "126.31502",
+        "Timestamp": "2013-09-09",
+        "Volume (BTC)": "28172.62",
+        "Volume (Currency)": "3713063.37",
+        "Weighted Price": "131.8"
+    },
+    {
+        "Close": "132.61636",
+        "High": "136.02",
+        "Low": "131.375",
+        "Open": "133.1",
+        "Timestamp": "2013-09-10",
+        "Volume (BTC)": "7833.1",
+        "Volume (Currency)": "1046934.17",
+        "Weighted Price": "133.66"
+    },
+    {
+        "Close": "142.1",
+        "High": "145.9",
+        "Low": "127.5",
+        "Open": "132.61636",
+        "Timestamp": "2013-09-11",
+        "Volume (BTC)": "40468.78",
+        "Volume (Currency)": "5561047.26",
+        "Weighted Price": "137.42"
+    },
+    {
+        "Close": "139.35499",
+        "High": "145.51679",
+        "Low": "137.51",
+        "Open": "142.1",
+        "Timestamp": "2013-09-12",
+        "Volume (BTC)": "19360.48",
+        "Volume (Currency)": "2726354.36",
+        "Weighted Price": "140.82"
+    },
+    {
+        "Close": "140.66",
+        "High": "145.60414",
+        "Low": "137.82",
+        "Open": "138.37013",
+        "Timestamp": "2013-09-13",
+        "Volume (BTC)": "18892.27",
+        "Volume (Currency)": "2701141.02",
+        "Weighted Price": "142.98"
+    },
+    {
+        "Close": "136.7149",
+        "High": "142",
+        "Low": "136.5",
+        "Open": "140.66",
+        "Timestamp": "2013-09-14",
+        "Volume (BTC)": "8361.6",
+        "Volume (Currency)": "1162873.31",
+        "Weighted Price": "139.07"
+    },
+    {
+        "Close": "138.3002",
+        "High": "141",
+        "Low": "135.04",
+        "Open": "136.71627",
+        "Timestamp": "2013-09-15",
+        "Volume (BTC)": "6197.92",
+        "Volume (Currency)": "852533.92",
+        "Weighted Price": "137.55"
+    },
+    {
+        "Close": "139.41938",
+        "High": "142.23",
+        "Low": "137.9",
+        "Open": "138.4",
+        "Timestamp": "2013-09-16",
+        "Volume (BTC)": "9267.74",
+        "Volume (Currency)": "1295814.54",
+        "Weighted Price": "139.82"
+    },
+    {
+        "Close": "139.15001",
+        "High": "141.37",
+        "Low": "138",
+        "Open": "139.01",
+        "Timestamp": "2013-09-17",
+        "Volume (BTC)": "8242.27",
+        "Volume (Currency)": "1149306.12",
+        "Weighted Price": "139.44"
+    },
+    {
+        "Close": "140.41238",
+        "High": "142",
+        "Low": "139.01001",
+        "Open": "139.15002",
+        "Timestamp": "2013-09-18",
+        "Volume (BTC)": "8189.61",
+        "Volume (Currency)": "1148501.39",
+        "Weighted Price": "140.24"
+    },
+    {
+        "Close": "135.05037",
+        "High": "141.2",
+        "Low": "131.14",
+        "Open": "140.41234",
+        "Timestamp": "2013-09-19",
+        "Volume (BTC)": "19769.45",
+        "Volume (Currency)": "2695293.89",
+        "Weighted Price": "136.34"
+    },
+    {
+        "Close": "133.80726",
+        "High": "137.28",
+        "Low": "131",
+        "Open": "135.89477",
+        "Timestamp": "2013-09-20",
+        "Volume (BTC)": "9923.67",
+        "Volume (Currency)": "1334825.55",
+        "Weighted Price": "134.51"
+    },
+    {
+        "Close": "134.38",
+        "High": "135.99",
+        "Low": "132",
+        "Open": "133.80726",
+        "Timestamp": "2013-09-21",
+        "Volume (BTC)": "4441.25",
+        "Volume (Currency)": "594385.99",
+        "Weighted Price": "133.83"
+    },
+    {
+        "Close": "134.00001",
+        "High": "135",
+        "Low": "131",
+        "Open": "134.33795",
+        "Timestamp": "2013-09-22",
+        "Volume (BTC)": "5570.74",
+        "Volume (Currency)": "739648.9",
+        "Weighted Price": "132.77"
+    },
+    {
+        "Close": "133.4",
+        "High": "135",
+        "Low": "132",
+        "Open": "134.9",
+        "Timestamp": "2013-09-23",
+        "Volume (BTC)": "4464.49",
+        "Volume (Currency)": "596235.7",
+        "Weighted Price": "133.55"
+    },
+    {
+        "Close": "134.7788",
+        "High": "136.59141",
+        "Low": "132.5",
+        "Open": "133.4",
+        "Timestamp": "2013-09-24",
+        "Volume (BTC)": "6929.87",
+        "Volume (Currency)": "932097.52",
+        "Weighted Price": "134.5"
+    },
+    {
+        "Close": "135",
+        "High": "138",
+        "Low": "134.7",
+        "Open": "134.77898",
+        "Timestamp": "2013-09-25",
+        "Volume (BTC)": "8243.79",
+        "Volume (Currency)": "1122963.75",
+        "Weighted Price": "136.22"
+    },
+    {
+        "Close": "137.10002",
+        "High": "139",
+        "Low": "134.71",
+        "Open": "135.00135",
+        "Timestamp": "2013-09-26",
+        "Volume (BTC)": "5222.84",
+        "Volume (Currency)": "712709.65",
+        "Weighted Price": "136.46"
+    },
+    {
+        "Close": "138.93",
+        "High": "142.66",
+        "Low": "134.82811",
+        "Open": "135.85005",
+        "Timestamp": "2013-09-27",
+        "Volume (BTC)": "25900.19",
+        "Volume (Currency)": "3593626.81",
+        "Weighted Price": "138.75"
+    },
+    {
+        "Close": "142.5",
+        "High": "143",
+        "Low": "138.02021",
+        "Open": "138.93",
+        "Timestamp": "2013-09-28",
+        "Volume (BTC)": "12989.28",
+        "Volume (Currency)": "1827958.48",
+        "Weighted Price": "140.73"
+    },
+    {
+        "Close": "143.88402",
+        "High": "145.81",
+        "Low": "141.36005",
+        "Open": "142.49",
+        "Timestamp": "2013-09-29",
+        "Volume (BTC)": "17790.6",
+        "Volume (Currency)": "2567567.39",
+        "Weighted Price": "144.32"
+    },
+    {
+        "Close": "141.8965",
+        "High": "145.81",
+        "Low": "138.12",
+        "Open": "143.89402",
+        "Timestamp": "2013-09-30",
+        "Volume (BTC)": "12845.12",
+        "Volume (Currency)": "1825855.17",
+        "Weighted Price": "142.14"
+    },
+    {
+        "Close": "140.3",
+        "High": "144.44",
+        "Low": "139.41",
+        "Open": "143.28122",
+        "Timestamp": "2013-10-01",
+        "Volume (BTC)": "7709.57",
+        "Volume (Currency)": "1092164.83",
+        "Weighted Price": "141.66"
+    },
+    {
+        "Close": "123",
+        "High": "141.92999",
+        "Low": "109.7",
+        "Open": "140.30001",
+        "Timestamp": "2013-10-02",
+        "Volume (BTC)": "110147.64",
+        "Volume (Currency)": "13742025.51",
+        "Weighted Price": "124.76"
+    },
+    {
+        "Close": "130.98925",
+        "High": "132",
+        "Low": "120.1",
+        "Open": "123",
+        "Timestamp": "2013-10-03",
+        "Volume (BTC)": "34445.57",
+        "Volume (Currency)": "4386579.6",
+        "Weighted Price": "127.35"
+    },
+    {
+        "Close": "136.82222",
+        "High": "139.8",
+        "Low": "128.5",
+        "Open": "130.97902",
+        "Timestamp": "2013-10-04",
+        "Volume (BTC)": "17710.25",
+        "Volume (Currency)": "2387682.76",
+        "Weighted Price": "134.82"
+    },
+    {
+        "Close": "136.69511",
+        "High": "138",
+        "Low": "135.3",
+        "Open": "136.82222",
+        "Timestamp": "2013-10-05",
+        "Volume (BTC)": "4479.67",
+        "Volume (Currency)": "611381.98",
+        "Weighted Price": "136.48"
+    },
+    {
+        "Close": "137.8",
+        "High": "138",
+        "Low": "134.1",
+        "Open": "136.73026",
+        "Timestamp": "2013-10-06",
+        "Volume (BTC)": "4660.13",
+        "Volume (Currency)": "634031",
+        "Weighted Price": "136.05"
+    },
+    {
+        "Close": "135.80001",
+        "High": "139",
+        "Low": "135.12",
+        "Open": "137.01002",
+        "Timestamp": "2013-10-07",
+        "Volume (BTC)": "6405.78",
+        "Volume (Currency)": "878670.99",
+        "Weighted Price": "137.17"
+    },
+    {
+        "Close": "136.50002",
+        "High": "137.79499",
+        "Low": "135.66",
+        "Open": "136.82274",
+        "Timestamp": "2013-10-08",
+        "Volume (BTC)": "4157.41",
+        "Volume (Currency)": "568230.67",
+        "Weighted Price": "136.68"
+    },
+    {
+        "Close": "139.5",
+        "High": "142.1",
+        "Low": "135.8",
+        "Open": "136.50998",
+        "Timestamp": "2013-10-09",
+        "Volume (BTC)": "16615.18",
+        "Volume (Currency)": "2314148.32",
+        "Weighted Price": "139.28"
+    },
+    {
+        "Close": "140.41013",
+        "High": "141.69",
+        "Low": "138.51",
+        "Open": "139.42001",
+        "Timestamp": "2013-10-10",
+        "Volume (BTC)": "10157.64",
+        "Volume (Currency)": "1428027.92",
+        "Weighted Price": "140.59"
+    },
+    {
+        "Close": "140.1",
+        "High": "141.85",
+        "Low": "138.87001",
+        "Open": "141.41",
+        "Timestamp": "2013-10-11",
+        "Volume (BTC)": "6280.51",
+        "Volume (Currency)": "883230.52",
+        "Weighted Price": "140.63"
+    },
+    {
+        "Close": "142.89995",
+        "High": "143.0571",
+        "Low": "139.4",
+        "Open": "141.7929",
+        "Timestamp": "2013-10-12",
+        "Volume (BTC)": "10622.03",
+        "Volume (Currency)": "1504393.7",
+        "Weighted Price": "141.63"
+    },
+    {
+        "Close": "147.53",
+        "High": "147.65",
+        "Low": "141.50021",
+        "Open": "142.61096",
+        "Timestamp": "2013-10-13",
+        "Volume (BTC)": "15998.51",
+        "Volume (Currency)": "2317585.06",
+        "Weighted Price": "144.86"
+    },
+    {
+        "Close": "151.38003",
+        "High": "153.69902",
+        "Low": "146.03267",
+        "Open": "147.53",
+        "Timestamp": "2013-10-14",
+        "Volume (BTC)": "29438.93",
+        "Volume (Currency)": "4432598.32",
+        "Weighted Price": "150.57"
+    },
+    {
+        "Close": "158.1",
+        "High": "158.1",
+        "Low": "150.628",
+        "Open": "150.6295",
+        "Timestamp": "2013-10-15",
+        "Volume (BTC)": "14282.45",
+        "Volume (Currency)": "2204254.58",
+        "Weighted Price": "154.33"
+    },
+    {
+        "Close": "152.83",
+        "High": "163",
+        "Low": "144.20004",
+        "Open": "158.1",
+        "Timestamp": "2013-10-16",
+        "Volume (BTC)": "41433.58",
+        "Volume (Currency)": "6434985.71",
+        "Weighted Price": "155.31"
+    },
+    {
+        "Close": "157.60001",
+        "High": "159.95",
+        "Low": "150.75471",
+        "Open": "151.645",
+        "Timestamp": "2013-10-17",
+        "Volume (BTC)": "15093.85",
+        "Volume (Currency)": "2350949.12",
+        "Weighted Price": "155.76"
+    },
+    {
+        "Close": "168.3",
+        "High": "168.3",
+        "Low": "156.5",
+        "Open": "158.25323",
+        "Timestamp": "2013-10-18",
+        "Volume (BTC)": "24861.11",
+        "Volume (Currency)": "4061489.24",
+        "Weighted Price": "163.37"
+    },
+    {
+        "Close": "183.17999",
+        "High": "195.83267",
+        "Low": "167.1",
+        "Open": "168.2",
+        "Timestamp": "2013-10-19",
+        "Volume (BTC)": "54485.2",
+        "Volume (Currency)": "9865972.88",
+        "Weighted Price": "181.08"
+    },
+    {
+        "Close": "186.12",
+        "High": "186.12",
+        "Low": "177.25",
+        "Open": "180.80004",
+        "Timestamp": "2013-10-20",
+        "Volume (BTC)": "11174.87",
+        "Volume (Currency)": "2043935.17",
+        "Weighted Price": "182.9"
+    },
+    {
+        "Close": "192.795",
+        "High": "197.39005",
+        "Low": "183.2",
+        "Open": "186.12",
+        "Timestamp": "2013-10-21",
+        "Volume (BTC)": "22991.33",
+        "Volume (Currency)": "4406343.31",
+        "Weighted Price": "191.65"
+    },
+    {
+        "Close": "203",
+        "High": "205.5",
+        "Low": "192.795",
+        "Open": "192.795",
+        "Timestamp": "2013-10-22",
+        "Volume (BTC)": "32953.99",
+        "Volume (Currency)": "6582493.65",
+        "Weighted Price": "199.75"
+    },
+    {
+        "Close": "228",
+        "High": "228",
+        "Low": "200.75",
+        "Open": "203.99829",
+        "Timestamp": "2013-10-23",
+        "Volume (BTC)": "38958.66",
+        "Volume (Currency)": "8332514.78",
+        "Weighted Price": "213.88"
+    },
+    {
+        "Close": "206.995",
+        "High": "233.4",
+        "Low": "175.30001",
+        "Open": "227.99997",
+        "Timestamp": "2013-10-24",
+        "Volume (BTC)": "95972.97",
+        "Volume (Currency)": "19489369.74",
+        "Weighted Price": "203.07"
+    },
+    {
+        "Close": "197.90999",
+        "High": "209",
+        "Low": "176.60399",
+        "Open": "206.985",
+        "Timestamp": "2013-10-25",
+        "Volume (BTC)": "35744.04",
+        "Volume (Currency)": "6740413.02",
+        "Weighted Price": "188.57"
+    },
+    {
+        "Close": "188.56002",
+        "High": "198.42679",
+        "Low": "187",
+        "Open": "197.19879",
+        "Timestamp": "2013-10-26",
+        "Volume (BTC)": "11593.23",
+        "Volume (Currency)": "2227101.45",
+        "Weighted Price": "192.1"
+    },
+    {
+        "Close": "207.0001",
+        "High": "207.9",
+        "Low": "189",
+        "Open": "189.92363",
+        "Timestamp": "2013-10-27",
+        "Volume (BTC)": "12904.93",
+        "Volume (Currency)": "2578681.55",
+        "Weighted Price": "199.82"
+    },
+    {
+        "Close": "206.9",
+        "High": "209.79",
+        "Low": "200.42",
+        "Open": "207.5",
+        "Timestamp": "2013-10-28",
+        "Volume (BTC)": "10041.16",
+        "Volume (Currency)": "2072651.32",
+        "Weighted Price": "206.42"
+    },
+    {
+        "Close": "216",
+        "High": "216.5",
+        "Low": "204.20001",
+        "Open": "207.5",
+        "Timestamp": "2013-10-29",
+        "Volume (BTC)": "8958.39",
+        "Volume (Currency)": "1892602.51",
+        "Weighted Price": "211.27"
+    },
+    {
+        "Close": "208",
+        "High": "216.5",
+        "Low": "204",
+        "Open": "215.502",
+        "Timestamp": "2013-10-30",
+        "Volume (BTC)": "12582.47",
+        "Volume (Currency)": "2654807.1",
+        "Weighted Price": "210.99"
+    },
+    {
+        "Close": "211.1714",
+        "High": "215",
+        "Low": "205.43565",
+        "Open": "206",
+        "Timestamp": "2013-10-31",
+        "Volume (BTC)": "4608.29",
+        "Volume (Currency)": "976625.58",
+        "Weighted Price": "211.93"
+    },
+    {
+        "Close": "213.5",
+        "High": "215",
+        "Low": "209.76",
+        "Open": "211.20177",
+        "Timestamp": "2013-11-01",
+        "Volume (BTC)": "4884.45",
+        "Volume (Currency)": "1039764.67",
+        "Weighted Price": "212.87"
+    },
+    {
+        "Close": "211.70001",
+        "High": "214.87996",
+        "Low": "211.02",
+        "Open": "213.50003",
+        "Timestamp": "2013-11-02",
+        "Volume (BTC)": "4375.23",
+        "Volume (Currency)": "932092.25",
+        "Weighted Price": "213.04"
+    },
+    {
+        "Close": "224.01001",
+        "High": "226.959",
+        "Low": "212.105",
+        "Open": "212.2",
+        "Timestamp": "2013-11-03",
+        "Volume (BTC)": "12032.84",
+        "Volume (Currency)": "2641482.54",
+        "Weighted Price": "219.52"
+    },
+    {
+        "Close": "238.19039",
+        "High": "239.02",
+        "Low": "222",
+        "Open": "224.7",
+        "Timestamp": "2013-11-04",
+        "Volume (BTC)": "16899.84",
+        "Volume (Currency)": "3895904.69",
+        "Weighted Price": "230.53"
+    },
+    {
+        "Close": "251.3",
+        "High": "258.87626",
+        "Low": "229",
+        "Open": "238.19039",
+        "Timestamp": "2013-11-05",
+        "Volume (BTC)": "44067.26",
+        "Volume (Currency)": "10833235.33",
+        "Weighted Price": "245.83"
+    },
+    {
+        "Close": "264.1",
+        "High": "272.52",
+        "Low": "251.4134",
+        "Open": "251.4134",
+        "Timestamp": "2013-11-06",
+        "Volume (BTC)": "37807.24",
+        "Volume (Currency)": "9944331.96",
+        "Weighted Price": "263.03"
+    },
+    {
+        "Close": "309.659",
+        "High": "324.198",
+        "Low": "263.60001",
+        "Open": "264.11",
+        "Timestamp": "2013-11-07",
+        "Volume (BTC)": "85178.59",
+        "Volume (Currency)": "25293726.93",
+        "Weighted Price": "296.95"
+    },
+    {
+        "Close": "355",
+        "High": "358",
+        "Low": "308.01001",
+        "Open": "309.99999",
+        "Timestamp": "2013-11-08",
+        "Volume (BTC)": "43831.61",
+        "Volume (Currency)": "14805767.39",
+        "Weighted Price": "337.79"
+    },
+    {
+        "Close": "367.8",
+        "High": "395",
+        "Low": "340",
+        "Open": "355.06361",
+        "Timestamp": "2013-11-09",
+        "Volume (BTC)": "49272.46",
+        "Volume (Currency)": "18199556.28",
+        "Weighted Price": "369.37"
+    },
+    {
+        "Close": "336.33101",
+        "High": "372.5",
+        "Low": "290",
+        "Open": "365.12",
+        "Timestamp": "2013-11-10",
+        "Volume (BTC)": "74095.68",
+        "Volume (Currency)": "24174067.08",
+        "Weighted Price": "326.25"
+    },
+    {
+        "Close": "363",
+        "High": "376",
+        "Low": "321.41",
+        "Open": "341.0302",
+        "Timestamp": "2013-11-11",
+        "Volume (BTC)": "17785.25",
+        "Volume (Currency)": "6255033.51",
+        "Weighted Price": "351.7"
+    },
+    {
+        "Close": "380.1",
+        "High": "391.52574",
+        "Low": "359.02",
+        "Open": "362.99999",
+        "Timestamp": "2013-11-12",
+        "Volume (BTC)": "21029.65",
+        "Volume (Currency)": "7937468.75",
+        "Weighted Price": "377.44"
+    },
+    {
+        "Close": "434.87999",
+        "High": "445",
+        "Low": "372.183",
+        "Open": "380.25003",
+        "Timestamp": "2013-11-13",
+        "Volume (BTC)": "35274.27",
+        "Volume (Currency)": "14480339.54",
+        "Weighted Price": "410.51"
+    },
+    {
+        "Close": "433.4",
+        "High": "447.49999",
+        "Low": "402.54",
+        "Open": "434.87499",
+        "Timestamp": "2013-11-14",
+        "Volume (BTC)": "30773.28",
+        "Volume (Currency)": "13184591.73",
+        "Weighted Price": "428.44"
+    },
+    {
+        "Close": "434",
+        "High": "458",
+        "Low": "413.05",
+        "Open": "433.4",
+        "Timestamp": "2013-11-15",
+        "Volume (BTC)": "27269.09",
+        "Volume (Currency)": "11898612.6",
+        "Weighted Price": "436.34"
+    },
+    {
+        "Close": "461.9999",
+        "High": "477",
+        "Low": "428.01172",
+        "Open": "434",
+        "Timestamp": "2013-11-16",
+        "Volume (BTC)": "18664.14",
+        "Volume (Currency)": "8527635.05",
+        "Weighted Price": "456.9"
+    },
+    {
+        "Close": "528.31991",
+        "High": "536.777",
+        "Low": "457",
+        "Open": "458.95149",
+        "Timestamp": "2013-11-17",
+        "Volume (BTC)": "26509.66",
+        "Volume (Currency)": "13242526.69",
+        "Weighted Price": "499.54"
+    },
+    {
+        "Close": "785.50007",
+        "High": "788",
+        "Low": "522",
+        "Open": "528",
+        "Timestamp": "2013-11-18",
+        "Volume (BTC)": "71436.42",
+        "Volume (Currency)": "45079283.98",
+        "Weighted Price": "631.04"
+    },
+    {
+        "Close": "645.71675",
+        "High": "900.97998",
+        "Low": "502.6212",
+        "Open": "785.50007",
+        "Timestamp": "2013-11-19",
+        "Volume (BTC)": "98637.13",
+        "Volume (Currency)": "68768815.23",
+        "Weighted Price": "697.19"
+    },
+    {
+        "Close": "638",
+        "High": "650",
+        "Low": "453.29",
+        "Open": "643.00001",
+        "Timestamp": "2013-11-20",
+        "Volume (BTC)": "91019.97",
+        "Volume (Currency)": "50391282.67",
+        "Weighted Price": "553.63"
+    },
+    {
+        "Close": "765.10001",
+        "High": "784.4444",
+        "Low": "595.21",
+        "Open": "630.12001",
+        "Timestamp": "2013-11-21",
+        "Volume (BTC)": "38191.57",
+        "Volume (Currency)": "26748978.88",
+        "Weighted Price": "700.39"
+    },
+    {
+        "Close": "802",
+        "High": "821.999",
+        "Low": "682.3",
+        "Open": "768.99999",
+        "Timestamp": "2013-11-22",
+        "Volume (BTC)": "29655.73",
+        "Volume (Currency)": "22307022.39",
+        "Weighted Price": "752.2"
+    },
+    {
+        "Close": "832.524",
+        "High": "889.99999",
+        "Low": "799.60484",
+        "Open": "802",
+        "Timestamp": "2013-11-23",
+        "Volume (BTC)": "20952.76",
+        "Volume (Currency)": "17609317.85",
+        "Weighted Price": "840.43"
+    },
+    {
+        "Close": "795",
+        "High": "855",
+        "Low": "745.2",
+        "Open": "839.99",
+        "Timestamp": "2013-11-24",
+        "Volume (BTC)": "25843.73",
+        "Volume (Currency)": "20686216.59",
+        "Weighted Price": "800.43"
+    },
+    {
+        "Close": "830",
+        "High": "850",
+        "Low": "758.95852",
+        "Open": "795.00166",
+        "Timestamp": "2013-11-25",
+        "Volume (BTC)": "25978.29",
+        "Volume (Currency)": "21099945.05",
+        "Weighted Price": "812.21"
+    },
+    {
+        "Close": "970",
+        "High": "975",
+        "Low": "825.1",
+        "Open": "829.995",
+        "Timestamp": "2013-11-26",
+        "Volume (BTC)": "31183.08",
+        "Volume (Currency)": "27905311.15",
+        "Weighted Price": "894.89"
+    },
+    {
+        "Close": "1080",
+        "High": "1094.794",
+        "Low": "914.31556",
+        "Open": "970",
+        "Timestamp": "2013-11-27",
+        "Volume (BTC)": "37306.24",
+        "Volume (Currency)": "37321053.75",
+        "Weighted Price": "1000.4"
+    },
+    {
+        "Close": "1101.47497",
+        "High": "1224.59998",
+        "Low": "1032.15",
+        "Open": "1087.94315",
+        "Timestamp": "2013-11-28",
+        "Volume (BTC)": "37215.12",
+        "Volume (Currency)": "42727152.2",
+        "Weighted Price": "1148.11"
+    },
+    {
+        "Close": "1206.97761",
+        "High": "1242",
+        "Low": "1050",
+        "Open": "1101.42",
+        "Timestamp": "2013-11-29",
+        "Volume (BTC)": "38295.2",
+        "Volume (Currency)": "44555938.94",
+        "Weighted Price": "1163.49"
+    },
+    {
+        "Close": "1205.8",
+        "High": "1233",
+        "Low": "1150.25",
+        "Open": "1205",
+        "Timestamp": "2013-11-30",
+        "Volume (BTC)": "14782.96",
+        "Volume (Currency)": "17886454.2",
+        "Weighted Price": "1209.94"
+    },
+    {
+        "Close": "1004.42392",
+        "High": "1216.9",
+        "Low": "840.32",
+        "Open": "1206.00001",
+        "Timestamp": "2013-12-01",
+        "Volume (BTC)": "79772.7",
+        "Volume (Currency)": "83086786.68",
+        "Weighted Price": "1041.54"
+    },
+    {
+        "Close": "1096.63251",
+        "High": "1117.79999",
+        "Low": "975",
+        "Open": "1005",
+        "Timestamp": "2013-12-02",
+        "Volume (BTC)": "36675.47",
+        "Volume (Currency)": "38845192.51",
+        "Weighted Price": "1059.16"
+    },
+    {
+        "Close": "1155",
+        "High": "1185.77338",
+        "Low": "1065",
+        "Open": "1099.9",
+        "Timestamp": "2013-12-03",
+        "Volume (BTC)": "18945.16",
+        "Volume (Currency)": "21435545.47",
+        "Weighted Price": "1131.45"
+    },
+    {
+        "Close": "1237.955",
+        "High": "1240",
+        "Low": "1131.72718",
+        "Open": "1155",
+        "Timestamp": "2013-12-04",
+        "Volume (BTC)": "15885.31",
+        "Volume (Currency)": "18947255.39",
+        "Weighted Price": "1192.75"
+    },
+    {
+        "Close": "1106.4345",
+        "High": "1240",
+        "Low": "870.001",
+        "Open": "1230.005",
+        "Timestamp": "2013-12-05",
+        "Volume (BTC)": "57982.86",
+        "Volume (Currency)": "61804648.25",
+        "Weighted Price": "1065.91"
+    },
+    {
+        "Close": "845",
+        "High": "1118.989",
+        "Low": "800",
+        "Open": "1106.899",
+        "Timestamp": "2013-12-06",
+        "Volume (BTC)": "53161.11",
+        "Volume (Currency)": "50399613.13",
+        "Weighted Price": "948.05"
+    },
+    {
+        "Close": "696.99999",
+        "High": "895.89",
+        "Low": "576",
+        "Open": "846",
+        "Timestamp": "2013-12-07",
+        "Volume (BTC)": "97325.91",
+        "Volume (Currency)": "70458455.47",
+        "Weighted Price": "723.94"
+    },
+    {
+        "Close": "804.00001",
+        "High": "829",
+        "Low": "653.0001",
+        "Open": "693.25256",
+        "Timestamp": "2013-12-08",
+        "Volume (BTC)": "31105.78",
+        "Volume (Currency)": "22961371.65",
+        "Weighted Price": "738.17"
+    },
+    {
+        "Close": "918.99",
+        "High": "980.17661",
+        "Low": "787.75",
+        "Open": "810.98",
+        "Timestamp": "2013-12-09",
+        "Volume (BTC)": "27227",
+        "Volume (Currency)": "24179362.99",
+        "Weighted Price": "888.07"
+    },
+    {
+        "Close": "1033.975",
+        "High": "1067.99999",
+        "Low": "912",
+        "Open": "915.935",
+        "Timestamp": "2013-12-10",
+        "Volume (BTC)": "21706.67",
+        "Volume (Currency)": "21340424.33",
+        "Weighted Price": "983.13"
+    },
+    {
+        "Close": "920",
+        "High": "1056.9",
+        "Low": "856.123",
+        "Open": "1026.00001",
+        "Timestamp": "2013-12-11",
+        "Volume (BTC)": "23949.51",
+        "Volume (Currency)": "22661100.57",
+        "Weighted Price": "946.2"
+    },
+    {
+        "Close": "899.9999",
+        "High": "941",
+        "Low": "839.5",
+        "Open": "908.00003",
+        "Timestamp": "2013-12-12",
+        "Volume (BTC)": "9649.93",
+        "Volume (Currency)": "8553071.81",
+        "Weighted Price": "886.34"
+    },
+    {
+        "Close": "936.87547",
+        "High": "990",
+        "Low": "882.15864",
+        "Open": "899.9999",
+        "Timestamp": "2013-12-13",
+        "Volume (BTC)": "17088.92",
+        "Volume (Currency)": "15910804.5",
+        "Weighted Price": "931.06"
+    },
+    {
+        "Close": "908.98998",
+        "High": "948",
+        "Low": "875.13535",
+        "Open": "943.39623",
+        "Timestamp": "2013-12-14",
+        "Volume (BTC)": "11406.79",
+        "Volume (Currency)": "10359533.49",
+        "Weighted Price": "908.19"
+    },
+    {
+        "Close": "920",
+        "High": "928",
+        "Low": "838.0201",
+        "Open": "900.005",
+        "Timestamp": "2013-12-15",
+        "Volume (BTC)": "15038.57",
+        "Volume (Currency)": "13186844.81",
+        "Weighted Price": "876.87"
+    },
+    {
+        "Close": "760",
+        "High": "925",
+        "Low": "714.11",
+        "Open": "916",
+        "Timestamp": "2013-12-16",
+        "Volume (BTC)": "40795.65",
+        "Volume (Currency)": "32476301.78",
+        "Weighted Price": "796.07"
+    },
+    {
+        "Close": "715",
+        "High": "780",
+        "Low": "678.8904",
+        "Open": "760",
+        "Timestamp": "2013-12-17",
+        "Volume (BTC)": "31284.06",
+        "Volume (Currency)": "22608843.58",
+        "Weighted Price": "722.7"
+    },
+    {
+        "Close": "541.00001",
+        "High": "717.015",
+        "Low": "455",
+        "Open": "715",
+        "Timestamp": "2013-12-18",
+        "Volume (BTC)": "109722.89",
+        "Volume (Currency)": "62048984.58",
+        "Weighted Price": "565.51"
+    },
+    {
+        "Close": "731.98999",
+        "High": "746",
+        "Low": "522.44",
+        "Open": "541.21",
+        "Timestamp": "2013-12-19",
+        "Volume (BTC)": "45305.81",
+        "Volume (Currency)": "29663995.69",
+        "Weighted Price": "654.75"
+    },
+    {
+        "Close": "650",
+        "High": "774.47",
+        "Low": "621.25001",
+        "Open": "730",
+        "Timestamp": "2013-12-20",
+        "Volume (BTC)": "34364.27",
+        "Volume (Currency)": "23999605.66",
+        "Weighted Price": "698.39"
+    },
+    {
+        "Close": "640.5",
+        "High": "689.99",
+        "Low": "610",
+        "Open": "649.393",
+        "Timestamp": "2013-12-21",
+        "Volume (BTC)": "14441.48",
+        "Volume (Currency)": "9356525.82",
+        "Weighted Price": "647.89"
+    },
+    {
+        "Close": "639.48",
+        "High": "700",
+        "Low": "615",
+        "Open": "636.09001",
+        "Timestamp": "2013-12-22",
+        "Volume (BTC)": "11501.33",
+        "Volume (Currency)": "7603966.93",
+        "Weighted Price": "661.14"
+    },
+    {
+        "Close": "713.34506",
+        "High": "725",
+        "Low": "631.00001",
+        "Open": "639.47998",
+        "Timestamp": "2013-12-23",
+        "Volume (BTC)": "14666.9",
+        "Volume (Currency)": "9934026.93",
+        "Weighted Price": "677.31"
+    },
+    {
+        "Close": "702.8",
+        "High": "729.99174",
+        "Low": "666.01",
+        "Open": "716.99999",
+        "Timestamp": "2013-12-24",
+        "Volume (BTC)": "10677.15",
+        "Volume (Currency)": "7460474.08",
+        "Weighted Price": "698.73"
+    },
+    {
+        "Close": "707.3",
+        "High": "710",
+        "Low": "674",
+        "Open": "696.86",
+        "Timestamp": "2013-12-25",
+        "Volume (BTC)": "5270.7",
+        "Volume (Currency)": "3669393.68",
+        "Weighted Price": "696.19"
+    },
+    {
+        "Close": "802.11",
+        "High": "829.8",
+        "Low": "707.3",
+        "Open": "707.3",
+        "Timestamp": "2013-12-26",
+        "Volume (BTC)": "23193.34",
+        "Volume (Currency)": "17954026.6",
+        "Weighted Price": "774.1"
+    },
+    {
+        "Close": "803.23",
+        "High": "837",
+        "Low": "768",
+        "Open": "807",
+        "Timestamp": "2013-12-27",
+        "Volume (BTC)": "13466.88",
+        "Volume (Currency)": "10752491.64",
+        "Weighted Price": "798.44"
+    },
+    {
+        "Close": "762.005",
+        "High": "806",
+        "Low": "715.6",
+        "Open": "803.23",
+        "Timestamp": "2013-12-28",
+        "Volume (BTC)": "13149.18",
+        "Volume (Currency)": "9976713.28",
+        "Weighted Price": "758.73"
+    },
+    {
+        "Close": "785.00501",
+        "High": "804",
+        "Low": "735",
+        "Open": "767",
+        "Timestamp": "2013-12-29",
+        "Volume (BTC)": "6940.14",
+        "Volume (Currency)": "5370367.6",
+        "Weighted Price": "773.81"
+    },
+    {
+        "Close": "804.87996",
+        "High": "818.888",
+        "Low": "781",
+        "Open": "789.995",
+        "Timestamp": "2013-12-30",
+        "Volume (BTC)": "10027.39",
+        "Volume (Currency)": "8054469.04",
+        "Weighted Price": "803.25"
+    },
+    {
+        "Close": "806.00503",
+        "High": "813.99999",
+        "Low": "777",
+        "Open": "804.87492",
+        "Timestamp": "2013-12-31",
+        "Volume (BTC)": "8836.73",
+        "Volume (Currency)": "7037218.27",
+        "Weighted Price": "796.36"
+    }
+]

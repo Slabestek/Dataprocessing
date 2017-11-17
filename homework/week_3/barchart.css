@@ -1,0 +1,12 @@
+/* Bas Kuiken
+*	10776990
+*	UvA, minor Programmeren
+*	Opdracht Dataprocessing, week 3
+*	
+*	CSS file die de kleur van de barcharts regelt.
+
+*/
+
+.chart rect{
+	fill: green;
+}

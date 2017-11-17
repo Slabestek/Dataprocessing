@@ -1,0 +1,37 @@
+Bas Kuiken
+10776990
+MProg, Dataprocessing
+Q & A
+
+How can D3 access and change the DOM? What do select and selectAll do?
+	d3 accesses the DOM by adding/appending elements to so called containers. 
+	most HTML elements are containers that can be selected, either by select or selectAll.
+
+What are the d and i in function(d){} and function(d, i){}?
+	d is an argument that can be called anything. it is a convention to call it d.
+	it is the first argument in function so it refers to passed data. i is a counter
+	that increases for each element. it is always the second argument.
+	
+Write sample lines of JavaScript to add a div element with class “barChart1” and to add an svg element with class “barChart2” with square dimensions.
+	create a div:						add svg element:
+	|d3.select('body')					|d3.select('body')
+	|	.append('div')					|	.append('svg')
+	|	.attr('class', 'barChart1');	|	.attr('class, 'barChart2')
+										|	.attr('width', 50)
+										|	.attr('style', 50);
+
+Describe append, update, enter, and exit at a high level. What does “selectAll + data + enter + append” refer to?
+	selection.append is used to append a new element to the selection. 
+	this method returns a new selection containing the new element(s). This is useful in chaining methods.
+	selection.data is used to create, update and delete elements when data changes. 
+	you can think of the first selection as declaring elements you want to create. returns update, enter and exit selections.
+	the enter selection allows the user to create a new element for each piece of data that has no element yet.
+	the update and exit selection are used to either update or delete the selection.
+
+What are the main differences between drawing a bar chart with HTML and SVG?
+	HTML canvas doesnt like scaling, where SVG scales very well, as the name suggests.
+	SVG is also useful with dynamic data, to change vectors on the fly.
+
+In drawing the simple bar chart with D3 and SVG, what elements were appended, and what parts of the graph did these elements correspond to?
+	a couple of divs are appended. the first div is a container for the chart, the rest of the divs
+	are individual bars.
