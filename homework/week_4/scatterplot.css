@@ -1,0 +1,21 @@
+/*  Bas Kuiken
+*	10776990
+*	UvA, minor Programmeren
+*	Opdracht Dataprocessing, week 4
+*	
+*	Dit CSS bestand bepaalt stijl elementen voor scatterplot.html.
+*	Tooltips worden hier bijvoorbeeld gestyled.
+*/
+
+div.tooltip {
+  position: absolute;
+  text-align: center;
+  width: 70px;
+  height: 120px;
+  padding: 2px;
+  font: 12px sans-serif;
+  background: lightsteelblue;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+}
