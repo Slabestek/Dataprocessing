@@ -2,12 +2,12 @@
 *	10776990
 *	UvA, minor Programmeren
 *	Opdracht Dataprocessing, week 4
-*	
-*	Dit script laadt een scatterplot in, die de relatie weergeeft tussen het 
-*	aantal mobiele abonnementen en de Human Development Index (HDI) in 2014. 
-*	Scatterplot is gebaseerd op deze code: 
+*
+*	Dit script laadt een scatterplot in, die de relatie weergeeft tussen het
+*	aantal mobiele abonnementen en de Human Development Index (HDI) in 2014.
+*	Scatterplot is gebaseerd op deze code:
 *	https://bl.ocks.org/mbostock/3887118
-*	Tooltips zijn gebaseerd op deze code: 
+*	Tooltips zijn gebaseerd op deze code:
 *	https://bl.ocks.org/d3noob/257c360b3650b9f0a52dd8257d7a2d73
 */
 
@@ -32,7 +32,7 @@ window.onload = function() {
 
 	var legendRects = 5;
 
-	var colorRange = ["#DFDFDF", "#A7B0D2", "#6F81C6", 
+	var colorRange = ["#DFDFDF", "#A7B0D2", "#6F81C6",
 		"#3752B9", "#0023AD"];
 
 	var svg = d3.select('body').append('svg')
@@ -50,22 +50,22 @@ window.onload = function() {
 		if (error) throw error;
 
 		data.forEach(function(d) {
-			d.HumanDevelopmentIndexHDI = 
+			d.HumanDevelopmentIndexHDI =
 				+d.HumanDevelopmentIndexHDI;
 			d['Mobile phone subscriptions per 100 people 2014'] = +d['Mobile phone subscriptions per 100 people 2014'];
 		});
 
 		var color = d3.scaleLinear()
-			.range(["#0023AD",  
+			.range(["#0023AD",
 				"#DFDFDF"])
 			.domain([0, 188]);
 
 		// define domains
-		x.domain([d3.min(data, function(d) {return d['Mobile phone subscriptions per 100 people 2014'];}), 
+		x.domain([d3.min(data, function(d) {return d['Mobile phone subscriptions per 100 people 2014'];}),
 			d3.max(data, function(d) {return d['Mobile phone subscriptions per 100 people 2014'];})]);
 
 		y.domain([
-			d3.min(data, function(d) {return (d.HumanDevelopmentIndexHDI - 0.05);}), 
+			d3.min(data, function(d) {return (d.HumanDevelopmentIndexHDI - 0.05);}),
 			d3.max(data, function(d) {return d.HumanDevelopmentIndexHDI;})
 			]);
 
@@ -121,7 +121,7 @@ window.onload = function() {
 				}
 				return color(d['Internet users percentage of population 2014']); })
 			.attr("r", 3.5)
-			.attr("cx", function(d) { 
+			.attr("cx", function(d) {
 				return x(d['Mobile phone subscriptions per 100 people 2014']); })
 			.attr("cy", function(d) { return y(d.HumanDevelopmentIndexHDI); })
 			.style("fill", function(d, i) {
@@ -131,9 +131,9 @@ window.onload = function() {
 				div.transition()
 					.duration(200)
 					.style("opacity", .9);
-				div.html('Country: ' + d.Id + "<br/>" + 'HDI: ' + 
-						(Math.round(d.HumanDevelopmentIndexHDI * 100) / 100 ) + 
-						'</br>' + 'Mobile subs: ' + 
+				div.html('Country: ' + d.Id + "<br/>" + 'HDI: ' +
+						(Math.round(d.HumanDevelopmentIndexHDI * 100) / 100 ) +
+						'</br>' + 'Mobile subs: ' +
 						Math.round(d['Mobile phone subscriptions per 100 people 2014'])
 						+ '</br> Internet usage: ' + d['Internet users percentage of population 2014'])
 					.style("left", (d3.event.pageX) + "px")
@@ -168,4 +168,4 @@ window.onload = function() {
 				.style('fill', 'black');
 		}
 	});
-}
+};
