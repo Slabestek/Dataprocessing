@@ -1,0 +1,26 @@
+<!-- Bas Kuiken
+	10776990
+	UvA, minor Programmeren
+	Opdracht Dataprocessing, week 5
+
+	Deze site geeft een linegraph weer met meerdere lijnen. Er bestaat
+	de mogelijkheid om van jaar te veranderen. Ook zijn de precieze waardes
+	te zien door met de muis over de lijnen te bewegen. -->
+
+	<!DOCTYPE html>
+	<html>
+		<head>
+			<link rel="stylesheet" type="text/css" href="multilinegraph.css">
+			<script type="text/javascript" src="d3/d3.js"></script>
+			<script src = "multilinegraph.js"></script>
+		</head>
+		<body>
+			<h1>
+				Multi-series Linegraph for Bitcoin Prices in 2015 and 2016
+			</h1>
+			<div id = 'swapper'>
+				<input name = 'swapButton' type = 'button'
+					value = 'Change Year' onclick = 'swapYear()' />
+			</div>
+		</body>
+	</html>

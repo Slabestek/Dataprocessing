@@ -1,0 +1,12 @@
+/*  Bas Kuiken
+*	10776990
+*	UvA, minor Programmeren
+*	Opdracht Dataprocessing, week 5
+*
+*	Dit stylesheet zorgt ervoor dat er alleen een lijn te zien is en geen
+*	area om de lijn heen.
+*/
+
+path line {
+  fill: none;
+}
