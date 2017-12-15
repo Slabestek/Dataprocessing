@@ -1,10 +1,11 @@
 /*  Bas Kuiken
 *	10776990
 *	UvA, minor Programmeren
-*	Opdracht Dataprocessing, week 6
+*	Opdracht Dataprocessing, week 7
 *
 *	Dit script laadt een linked view in een html pagina. Dit wordt
-*	gedaan aan de hand van d3.js.
+*	gedaan aan de hand van d3.js. Er wordt een barchart en een wereldkaart
+*   weergegeven. 
 */
 
 var dict2010 = {};
