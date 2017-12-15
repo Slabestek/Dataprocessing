@@ -1,0 +1,40 @@
+<!-- Bas Kuiken
+    10776990
+    UvA, minor Programmeren
+    Opdracht Dataprocessing, week 6
+
+    Deze site geeft een linked view weer. Er zijn twee datasets
+ 	die interactief met elkaar werken. Boven is een kaart van de wereld,
+    onder is een grafiek.-->
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
+        <script src="//d3js.org/topojson.v1.min.js"></script>
+        <script src="scripts/datamaps.world.min.js"></script>
+        <script src="//d3js.org/queue.v1.min.js"></script>
+        <script src = "scripts/linkedview.js"></script>
+    </head>
+    <body>
+        <h1>
+            Linked View Werkeloosheidscijfers
+        </h1>
+        <select id='selectah'>
+            <option value='2010' selected='selected'>2010</option>
+            <option value='2011'>2011</option>
+            <option value='2012'>2012</option>
+            <option value='2013'>2013</option>
+            <option value='2014'>2014</option>
+        </select>
+        <div id='mapContainer' style='width: 960px; height: 500px;'></div>
+        <svg id='chartContainer'></svg>
+        <p> De landen op de kaart zijn gekleurd aan de hand van de werkeloosheid
+            ratio, van groen naar rood. Het histogram geeft een aantal waarden
+            weer per land die van invloed kunnen zijn op de mate van
+            werkeloosheid. Daaraan is te zien dat mate van scholing invloed
+            heeft op de mate van werkeloosheid, en dat de consumenten minder
+            koopkracht hebben in landen waar er meer werkeloosheid is.
+        </p>
+    </body>
+    </html>
